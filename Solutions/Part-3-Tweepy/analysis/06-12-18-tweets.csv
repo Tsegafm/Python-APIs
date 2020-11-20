@@ -1,0 +1,604 @@
+,tweet_source,tweet_text,tweet_date,tweet_vader_score,tweet_pos_score,tweet_neu_score,tweet_neg_score
+0,Fox News,AT&amp;T prevails as Time Warner takeover gets OK from judge (via @FoxBusiness) https://t.co/KPPq5zpaMP,Tue Jun 12 20:56:15 +0000 2018,0.4466,0.196,0.804,0.0
+1,Fox News,RT @FoxBusiness: #BreakingNews: Judge rules in favor of AT&amp;T-Time Warner merger. https://t.co/utmfUh2AUE https://t.co/vRzPGbXQkJ,Tue Jun 12 20:47:10 +0000 2018,0.4019,0.184,0.816,0.0
+2,Fox News,JUST IN: Federal judge allows AT&amp;T-Time Warner deal https://t.co/KPPq5zpaMP https://t.co/LzHp8tWdEG,Tue Jun 12 20:46:47 +0000 2018,0.0,0.0,1.0,0.0
+3,Fox News,Texas man's 28-pound 'monster' Bigmouth Buffalo catch could break state record https://t.co/ShF8St80wW,Tue Jun 12 20:42:21 +0000 2018,0.0,0.0,1.0,0.0
+4,Fox News,".@RandPaul: “I think it's a good step for the world."" #Cavuto https://t.co/lkr9yxsVuW",Tue Jun 12 20:37:18 +0000 2018,0.4404,0.225,0.775,0.0
+5,Fox News,".@POTUS: “We got along very well. We got along from the beginning.”
+
+President @realDonaldTrump talks to… https://t.co/8zgG9451f1",Tue Jun 12 20:35:00 +0000 2018,0.3384,0.13,0.87,0.0
+6,Fox News,"Former President George W. Bush posted this photo on Instagram Tuesday, as his father, former President… https://t.co/V7oJyAntIB",Tue Jun 12 20:31:07 +0000 2018,0.0,0.0,1.0,0.0
+7,Fox News,.@RandPaul: “I would offer them the allure of trade with Japan and South Korea and us and expanded trade with China… https://t.co/LIYASMvDfy,Tue Jun 12 20:25:58 +0000 2018,0.0,0.0,1.0,0.0
+8,Fox News,.@RandPaul: “I think it’s historic that President Trump has had this meeting.” #Cavuto https://t.co/lRKCzf60sW,Tue Jun 12 20:18:54 +0000 2018,0.0,0.0,1.0,0.0
+9,Fox News,"RT @FoxBusiness: AT THE CLOSE: The Nasdaq finished the day at a new record close, its 19th record close this year.  The Dow Jones Industria…",Tue Jun 12 20:12:07 +0000 2018,0.0,0.0,1.0,0.0
+10,Fox News,"World Cup 2018 teams to watch, from Germany to Iceland https://t.co/NCtJAZM7m0",Tue Jun 12 20:07:49 +0000 2018,0.0,0.0,1.0,0.0
+11,Fox News,"JUST IN: Rosenstein threatened to 'subpoena' GOP-led committee in 'chilling' clash over records, emails show https://t.co/6ZgIvOz96A",Tue Jun 12 19:44:14 +0000 2018,-0.4588,0.0,0.833,0.167
+12,Fox News,"Former Gov. Bill Richardson: ""[Kim Jong Un's] nation wants an opportunity, like all people, to get out of the doldr… https://t.co/FdhI0Bi3U8",Tue Jun 12 19:41:11 +0000 2018,0.6486,0.218,0.782,0.0
+13,Fox News,".@POTUS: “We got a lot more done today than I ever thought possible.”
+
+President @realDonaldTrump talks to… https://t.co/TNvgMrAMG5",Tue Jun 12 19:39:00 +0000 2018,0.0,0.0,1.0,0.0
+14,Fox News,"Former Gov. Bill Richardson on #TrumpKimSummit: ""@SecPompeo needs to move in real quick...Seize on that momentum to… https://t.co/QBTye2OMGq",Tue Jun 12 19:36:27 +0000 2018,0.0,0.0,1.0,0.0
+15,Fox News,"Former Gov. Bill Richardson on #TrumpKimSummit: ""I've been involved with this issue a long time and it's always bee… https://t.co/Mf8MaAkblN",Tue Jun 12 19:29:43 +0000 2018,0.0,0.0,1.0,0.0
+16,Fox News,.@jasoninthehouse: @TheJusticeDept Will Hold Docs on @FBI Informant Until Congress 'Gets a Backbone'  #OutnumberedOT https://t.co/VOEF2E99JH,Tue Jun 12 19:21:41 +0000 2018,0.0,0.0,1.0,0.0
+17,Fox News,Parents of Otto Warmbier are hopeful 'something positive' can come from Trump-Kim summit https://t.co/woY4mdgEPO https://t.co/GvBsVXTHpS,Tue Jun 12 19:14:48 +0000 2018,0.7845,0.347,0.653,0.0
+18,Fox News,OPINION: Trump meets Kim and sets the stage for fundamental change in Asia -– Here's what his critics missed https://t.co/1z2EuJWFHI,Tue Jun 12 19:05:27 +0000 2018,-0.5267,0.0,0.804,0.196
+19,Fox News,Eurosatory 2018: Huge wheeled military ATV swims and surprises https://t.co/25707QhaBi,Tue Jun 12 18:56:23 +0000 2018,0.4939,0.344,0.656,0.0
+20,CNN,BREAKING: A federal judge has ruled that AT&amp;T can move forward with its $85 billion acquisition of Time Warner… https://t.co/Y1ZMi6UQBr,Tue Jun 12 20:54:11 +0000 2018,0.0,0.0,1.0,0.0
+21,CNN,The FBI agent who unintentionally shot someone while dancing in a Denver bar has turned himself in to police and is… https://t.co/1qmOsYK2PV,Tue Jun 12 20:50:09 +0000 2018,0.0,0.0,1.0,0.0
+22,CNN,"Bringing tamales and a whole team of volunteers, renowned chef José Andrés traveled to Guatemala four days after th… https://t.co/jrrtekHeZt",Tue Jun 12 20:40:06 +0000 2018,0.0,0.0,1.0,0.0
+23,CNN,"RT @TheLeadCNN: Sen. Bob Menendez says Trump achieved ""very little"" at the summit: ""What we needed, and what we still need, is a methodical…",Tue Jun 12 20:38:34 +0000 2018,0.0,0.0,1.0,0.0
+24,CNN,"A grandma irons her granddaughter's Pride flag, and the internet swoons https://t.co/FnX5jqmkjv https://t.co/X9vxweRg0x",Tue Jun 12 20:32:06 +0000 2018,0.34,0.179,0.821,0.0
+25,CNN,"Canada's House of Commons voted to send a symbolic message to the United States, standing against President Donald… https://t.co/C3mbjRi6bT",Tue Jun 12 20:25:05 +0000 2018,0.4215,0.141,0.859,0.0
+26,CNN,The case of the curiously compelling Dennis Rodman-Chris Cuomo interview | Analysis by @CillizzaCNN… https://t.co/iLLXlwPi8q,Tue Jun 12 20:18:04 +0000 2018,0.2263,0.128,0.872,0.0
+27,CNN,"Folk singer Joni Mitchell wrote the song ""River"" while sitting by the South Saskatoon River in Canada. Now, a walkw… https://t.co/BPIsxnC9Jp",Tue Jun 12 20:15:00 +0000 2018,0.0,0.0,1.0,0.0
+28,CNN,The French photographer at the center of a sexual harassment scandal that forced the postponement of this year's No… https://t.co/GabRGo0Yn5,Tue Jun 12 20:10:07 +0000 2018,-0.8555,0.0,0.63,0.37
+29,CNN,Netflix is now worth more than Disney. It’s valued at around $160 billion. https://t.co/xm78Az7kwW https://t.co/ZR4YrQaGcc,Tue Jun 12 20:05:00 +0000 2018,0.5859,0.27,0.73,0.0
+30,CNN,"Seattle's controversial new ""Amazon tax"" on employers passed just a month ago, but it could be repealed this week… https://t.co/wI56S9OwUP",Tue Jun 12 20:00:14 +0000 2018,-0.0129,0.068,0.861,0.071
+31,CNN,"After his expletive-laden rant about President Trump, Robert De Niro apologizes - to Canadians… https://t.co/Zy5hXioA6v",Tue Jun 12 19:52:06 +0000 2018,0.0258,0.148,0.71,0.142
+32,CNN,"RT @CNNnewsroom: At the end of his meeting with Kim Jong Un, President Trump ""pats him on the back and guides him out ... establishing domi…",Tue Jun 12 19:47:03 +0000 2018,0.0,0.0,1.0,0.0
+33,CNN,A Florida police chief is accused of framing four crimes on a teen so he could claim a 100% burglary clearance rate… https://t.co/zmZDDkVeyj,Tue Jun 12 19:46:47 +0000 2018,-0.296,0.0,0.896,0.104
+34,CNN,"RT @CNNnewsroom: ""The key question now is the details. What exactly is the president talking about? Will all training exercises (so called…",Tue Jun 12 19:44:48 +0000 2018,0.0,0.0,1.0,0.0
+35,CNN,"It's been two years since their son and 48 others were killed in the Pulse massacre, but for Maria and Fred Wright,… https://t.co/lSa9A6yEdg",Tue Jun 12 19:40:08 +0000 2018,-0.4118,0.0,0.889,0.111
+36,CNN,"Before celebrating a game-winning strikeout that led his team to the state tournament, this high school baseball pi… https://t.co/UppDKtVwx1",Tue Jun 12 19:35:00 +0000 2018,0.5719,0.179,0.821,0.0
+37,CNN,"RT @CNNnewsroom: Had President Obama met with Kim Jong Un, the way President Trump just did, how might Republicans have reacted? @BrookeBCN…",Tue Jun 12 19:33:10 +0000 2018,0.0,0.0,1.0,0.0
+38,CNN,"Emmy Reeves had Type 1 diabetes, but she was allergic to the insulin she needed to stay alive. She recently underwe… https://t.co/URo9Jf5m77",Tue Jun 12 19:30:19 +0000 2018,0.1531,0.135,0.754,0.111
+39,CNN,Country Time Lemonade is creating a team to help pay fines and permits for kids who want to run their own lemonade… https://t.co/WLDWF9FGto,Tue Jun 12 19:20:08 +0000 2018,0.5859,0.242,0.703,0.055
+40,BBC News (World),Ireland to hold referendum on blasphemy law https://t.co/lx3bradLO8,Tue Jun 12 20:57:08 +0000 2018,0.0,0.0,1.0,0.0
+41,BBC News (World),Judge clears AT&amp;T takeover of Time Warner https://t.co/Kw998VdGqi,Tue Jun 12 20:54:54 +0000 2018,0.0772,0.157,0.843,0.0
+42,BBC News (World),Ivanka Trump accused of tweeting 'fake' Chinese proverb https://t.co/39Z31sXVO8,Tue Jun 12 20:54:54 +0000 2018,-0.296,0.0,0.784,0.216
+43,BBC News (World),Do you have any burning questions about the #TrumpKimSummit? Tweet @BBCJonSopel using #BBCNewsTen https://t.co/IXpvcrNsbw,Tue Jun 12 20:52:58 +0000 2018,0.0,0.0,1.0,0.0
+44,BBC News (World),"Any questions about the historic #TrumpKimSummit? @BBCJonSopel will answer your queries, use #BBCNewsTen https://t.co/fXxKJJJTUx",Tue Jun 12 20:20:41 +0000 2018,0.0,0.0,1.0,0.0
+45,BBC News (World),World Cup: Nike boots barred for Iran footballers amid US sanctions https://t.co/cnNKTulFAF,Tue Jun 12 18:37:34 +0000 2018,0.0,0.0,1.0,0.0
+46,BBC News (World),Jean-Pierre Bemba: ICC orders release of Congo 'warlord' https://t.co/8fAf1Mkm1D,Tue Jun 12 18:05:58 +0000 2018,0.0,0.0,1.0,0.0
+47,BBC News (World),Macedonia and Greece: Deal after 27-year row over a name https://t.co/qmDaY4mMAb,Tue Jun 12 16:55:28 +0000 2018,0.0,0.0,1.0,0.0
+48,BBC News (World),Navarro sorry for 'special place in hell'' for Trudeau remark https://t.co/gyn2mkLhZ6,Tue Jun 12 16:53:14 +0000 2018,0.34,0.208,0.692,0.1
+49,BBC News (World),Spanish football league defends phone 'spying' https://t.co/J21rBPWZJZ,Tue Jun 12 16:20:12 +0000 2018,0.0,0.0,1.0,0.0
+50,BBC News (World),"RT @BBCNews: A win-win or a Kim win? #TrumpKimSummit 
+
+https://t.co/LS8uCH3v7j https://t.co/4g7DVT8O37",Tue Jun 12 16:08:12 +0000 2018,0.5859,0.322,0.678,0.0
+51,BBC News (World),"""Boy look at that view. Wouldn't that make a great condo?""
+
+From Trump's coastline compliment to Kim Jong-un's 'pen… https://t.co/wvoi9dlPQK",Tue Jun 12 15:50:24 +0000 2018,-0.05,0.133,0.727,0.141
+52,BBC News (World),Ten handshakes that shook the world https://t.co/UWGxXPMzKW,Tue Jun 12 15:42:33 +0000 2018,-0.1027,0.0,0.811,0.189
+53,BBC News (World),Vase found in shoebox sells for 16m euros https://t.co/xLOrzWbJFN,Tue Jun 12 15:14:31 +0000 2018,0.0,0.0,1.0,0.0
+54,BBC News (World),RT @BBCMonitoring: North Koreans have not yet seen any TV news reports of the historic meeting between leader Kim Jong-un and President Tru…,Tue Jun 12 15:08:54 +0000 2018,0.0,0.0,1.0,0.0
+55,BBC News (World),Win-win or a Kim win? https://t.co/HUTGpeHpQU,Tue Jun 12 14:26:33 +0000 2018,0.5859,0.487,0.513,0.0
+56,BBC News (World),"Jean-Claude Arnault, photographer in Nobel prize scandal, charged with rape https://t.co/BpgMIp4wdt",Tue Jun 12 14:21:25 +0000 2018,-0.7269,0.168,0.355,0.477
+57,BBC News (World),"People who have had strokes are learning to cook for themselves again, thanks to this one-handed cookbook… https://t.co/9EC2Cnggpr",Tue Jun 12 13:51:00 +0000 2018,0.4404,0.146,0.854,0.0
+58,BBC News (World),Trump Kim summit: Five odd moments from the day https://t.co/Iv6cf56hLw,Tue Jun 12 13:27:02 +0000 2018,-0.3182,0.0,0.796,0.204
+59,BBC News (World),Kim Trump summit: North Korea state TV not airing summit news https://t.co/7PpE3BGqHB,Tue Jun 12 13:24:35 +0000 2018,0.0,0.0,1.0,0.0
+60,CBS News,Parkland drama students surprise another New York audience: The high schoolers sang at a fundraiser for the summer… https://t.co/b2vQRcEyyA,Tue Jun 12 20:39:41 +0000 2018,0.2732,0.11,0.89,0.0
+61,CBS News,The University of Southern California is being federally investigated for possibly concealing the inappropriate beh… https://t.co/ct73wH6oI9,Tue Jun 12 20:20:01 +0000 2018,0.0,0.0,1.0,0.0
+62,CBS News,"George H.W. Bush celebrated his birthday Tuesday, becoming the first U.S. president to turn 94… https://t.co/t99ZqGQ2HT",Tue Jun 12 19:59:40 +0000 2018,0.5719,0.198,0.802,0.0
+63,CBS News,WATCH: This high school senior with Down Syndrome stole the show by jumping across his graduation stage in exciteme… https://t.co/TLEdqJe8cy,Tue Jun 12 19:45:19 +0000 2018,0.0,0.0,1.0,0.0
+64,CBS News,"Police swarmed a building in Paris on Tuesday, saying a man had taken two people hostage. The suspect has arrested,… https://t.co/x0sxCGf1Rx",Tue Jun 12 19:29:37 +0000 2018,-0.296,0.0,0.891,0.109
+65,CBS News,"For the second straight year, throngs of fans are celebrating the Golden State Warriors with a parade for a team so… https://t.co/L8ccU8wTPw",Tue Jun 12 19:18:39 +0000 2018,0.6808,0.237,0.763,0.0
+66,CBS News,Mitch McConnell becomes longest-serving Republican leader in history of Senate https://t.co/lxytJsyFjY https://t.co/6TCoC8ai6z,Tue Jun 12 19:14:32 +0000 2018,0.0,0.0,1.0,0.0
+67,CBS News,"Domino's fixing towns' crumbling roads -- patching up potholes with its logo -- in move to ""save"" pizza… https://t.co/rwhxBNlOWx",Tue Jun 12 19:00:03 +0000 2018,0.0,0.0,1.0,0.0
+68,CBS News,"U2 honors ""great storyteller"" Anthony Bourdain during concert at New York City's Apollo Theater… https://t.co/pvaDWSA8lx",Tue Jun 12 18:44:31 +0000 2018,0.8126,0.363,0.637,0.0
+69,CBS News,"Virginia primary voters to pick nominees in local, federal races https://t.co/Jy4n43vlJa https://t.co/OFSUwjrWCp",Tue Jun 12 18:29:57 +0000 2018,0.0,0.0,1.0,0.0
+70,CBS News,Couple stops to respectfully fold American flag after two people ripped it down and left it on the sidewalk… https://t.co/Wm6iJIMsqe,Tue Jun 12 18:19:47 +0000 2018,0.2732,0.121,0.807,0.072
+71,CBS News,"Neighbors stunned after ""pleasant"" man revealed to be long-missing Air Force officer https://t.co/QhdwEYtCbE https://t.co/gyr9vOTN5T",Tue Jun 12 18:14:57 +0000 2018,-0.1027,0.0,0.903,0.097
+72,CBS News,"""Dennis Rodman is probably the only one on the planet who knows both of them,"" @GayleKing says of President Trump a… https://t.co/H0CWlUt207",Tue Jun 12 18:13:31 +0000 2018,0.0,0.0,1.0,0.0
+73,CBS News,11 candidates seeking to succeed firebrand Maine Gov. LePage in Tuesday's primary  https://t.co/N7laRnJnfQ https://t.co/GFJw12IpDw,Tue Jun 12 17:59:45 +0000 2018,0.4939,0.198,0.802,0.0
+74,CBS News,"Hostage situation unfolding in Paris. Negotiations with the suspect were taking place, according to an Interior Min… https://t.co/UJ6tsl7nFy",Tue Jun 12 17:44:40 +0000 2018,-0.296,0.0,0.885,0.115
+75,CBS News,"WATCH: The championship parade for Stanley Cup champs, the Washington Capitals, is underway https://t.co/JvnOxNMouK https://t.co/n8b0X86TCF",Tue Jun 12 17:35:03 +0000 2018,0.6908,0.305,0.695,0.0
+76,CBS News,Canada’s Parliament has voted unanimously to condemn President Trump following his attacks against Prime Minister J… https://t.co/x6qlPUjr5g,Tue Jun 12 17:29:44 +0000 2018,-0.6705,0.0,0.732,0.268
+77,CBS News,Extreme fire danger forces rare shutdown of national forests in West https://t.co/1rlj92zMy3 https://t.co/eu1WHem8QO,Tue Jun 12 17:14:45 +0000 2018,-0.7003,0.0,0.655,0.345
+78,CBS News,"Catholic priest shot to death at altar by gunmen in Philippines, Philippines Catholic Bishops Conference says he wa… https://t.co/YlAIMYuBta",Tue Jun 12 16:59:41 +0000 2018,-0.5994,0.0,0.822,0.178
+79,CBS News,"A high school pitcher was playing against his best friend in the state championship game, and instead of celebratin… https://t.co/K3dCJdQIRj",Tue Jun 12 16:45:11 +0000 2018,0.9022,0.446,0.554,0.0
+80,The New York Times,Breaking News: AT&amp;T’s blockbuster $85.4 billion takeover of Time Warner was approved by a judge who ruled against t… https://t.co/th9bnYc8YV,Tue Jun 12 20:47:42 +0000 2018,0.7717,0.283,0.717,0.0
+81,The New York Times,RT @nytimesbusiness: AT&amp;T and Time Warner just won a court's approval to close their $85.4 billion deal. It will create a media and telecom…,Tue Jun 12 20:43:22 +0000 2018,0.836,0.319,0.681,0.0
+82,The New York Times,"RT @poniewozik: My review of ABC's ""The Last Defense,"" which applies the true-crime-doc format to question death-row convictions. https://t…",Tue Jun 12 20:31:38 +0000 2018,0.0,0.0,1.0,0.0
+83,The New York Times,North Korea is one of the world’s most isolated countries. Is anyone ready to do business there? https://t.co/j3QbJdAGD3,Tue Jun 12 20:16:04 +0000 2018,-0.024,0.119,0.759,0.123
+84,The New York Times,"Tesla will cut 9 percent of its work force, part of an effort to “reduce costs and become profitable,” Elon Musk sa… https://t.co/bGubFxL9Ci",Tue Jun 12 20:03:21 +0000 2018,-0.2732,0.0,0.909,0.091
+85,The New York Times,RT @carlzimmer: Some CRISPR-based companies took a tumble in the stock market yesterday. I take a look at the studies that triggered the fa…,Tue Jun 12 19:50:17 +0000 2018,0.0,0.0,1.0,0.0
+86,The New York Times,"In Opinion, 
+
+""Trump’s diplomacy, however unconventional, has pierced the isolation bubble of the North Korean lead… https://t.co/8YZ14AO3n0",Tue Jun 12 19:31:07 +0000 2018,-0.4019,0.0,0.856,0.144
+87,The New York Times,"Years of efforts to prevent sexual harassment of women in the fields of science, engineering and medicine have not… https://t.co/RxDpHOpaBc",Tue Jun 12 19:16:07 +0000 2018,-0.5267,0.049,0.796,0.155
+88,The New York Times,North Korea made few concessions. But here’s why President Trump is still betting on his “special bond” with Kim Jo… https://t.co/Y0oIVra8H5,Tue Jun 12 19:01:03 +0000 2018,0.0,0.0,1.0,0.0
+89,The New York Times,"RT @NYTNational: Republicans say they are due for a rebound in Virginia: “I have a hard time believing the Democratic spin, if their high-w…",Tue Jun 12 18:46:05 +0000 2018,-0.1027,0.0,0.938,0.062
+90,The New York Times,The brother-in-law of Spain’s King will most likely go to prison for his involvement in a fraud case https://t.co/Py11FfmLCD,Tue Jun 12 18:31:04 +0000 2018,-0.7964,0.0,0.693,0.307
+91,The New York Times,President Trump and North Korean leader Kim Jong-un signed a joint statement on Tuesday that opened the door to end… https://t.co/NxSG19ZZdU,Tue Jun 12 18:16:03 +0000 2018,0.0,0.0,1.0,0.0
+92,The New York Times,"RT @NYTArchives: Anne Frank was born on this day in 1929. The Times published a review when her diary was translated, writing that her voic…",Tue Jun 12 18:01:04 +0000 2018,0.0,0.0,1.0,0.0
+93,The New York Times,The plan to save NYC’s subway has an ambitious timeline. Is it even possible? https://t.co/km9uddzdzz,Tue Jun 12 17:46:04 +0000 2018,0.743,0.326,0.674,0.0
+94,The New York Times,"Teachers in Illinois are being training to use guns, even though concealed weapons are prohibited on school campuses https://t.co/gt2bNqOPO9",Tue Jun 12 17:31:05 +0000 2018,-0.4404,0.0,0.861,0.139
+95,The New York Times,RT @arappeport: Peter Navarro says he's sorry for saying there's a 'special place in hell' for Canadian PM Justin Trudeau. https://t.co/eFA…,Tue Jun 12 17:17:59 +0000 2018,-0.4939,0.105,0.664,0.23
+96,The New York Times,10 simple takeaways from Trump’s summit meeting with Kim Jong-un https://t.co/vEh4ClPj5q,Tue Jun 12 17:01:05 +0000 2018,0.0,0.0,1.0,0.0
+97,The New York Times,"Here’s what you need to know about the primaries in Nevada, Virginia, Maine, South Carolina and North Dakota https://t.co/FAZuBE0OJP",Tue Jun 12 16:46:05 +0000 2018,0.0,0.0,1.0,0.0
+98,The New York Times,"After meeting with Kim Jong-un, Trump answered questions about Otto Warmbier, war games and that iPad video https://t.co/nrFwVOw4ad",Tue Jun 12 16:31:08 +0000 2018,-0.5994,0.0,0.813,0.187
+99,The New York Times,"If your waist measures 35 or more inches for women or 40 or more inches for men, chances are you're harboring a pot… https://t.co/hhaSKA6LZo",Tue Jun 12 16:16:02 +0000 2018,0.2023,0.076,0.924,0.0
+100,Fox News,AT&amp;T prevails as Time Warner takeover gets OK from judge (via @FoxBusiness) https://t.co/KPPq5zpaMP,Tue Jun 12 20:56:15 +0000 2018,0.4466,0.196,0.804,0.0
+101,Fox News,RT @FoxBusiness: #BreakingNews: Judge rules in favor of AT&amp;T-Time Warner merger. https://t.co/utmfUh2AUE https://t.co/vRzPGbXQkJ,Tue Jun 12 20:47:10 +0000 2018,0.4019,0.184,0.816,0.0
+102,Fox News,JUST IN: Federal judge allows AT&amp;T-Time Warner deal https://t.co/KPPq5zpaMP https://t.co/LzHp8tWdEG,Tue Jun 12 20:46:47 +0000 2018,0.0,0.0,1.0,0.0
+103,Fox News,Texas man's 28-pound 'monster' Bigmouth Buffalo catch could break state record https://t.co/ShF8St80wW,Tue Jun 12 20:42:21 +0000 2018,0.0,0.0,1.0,0.0
+104,Fox News,".@RandPaul: “I think it's a good step for the world."" #Cavuto https://t.co/lkr9yxsVuW",Tue Jun 12 20:37:18 +0000 2018,0.4404,0.225,0.775,0.0
+105,Fox News,".@POTUS: “We got along very well. We got along from the beginning.”
+
+President @realDonaldTrump talks to… https://t.co/8zgG9451f1",Tue Jun 12 20:35:00 +0000 2018,0.3384,0.13,0.87,0.0
+106,Fox News,"Former President George W. Bush posted this photo on Instagram Tuesday, as his father, former President… https://t.co/V7oJyAntIB",Tue Jun 12 20:31:07 +0000 2018,0.0,0.0,1.0,0.0
+107,Fox News,.@RandPaul: “I would offer them the allure of trade with Japan and South Korea and us and expanded trade with China… https://t.co/LIYASMvDfy,Tue Jun 12 20:25:58 +0000 2018,0.0,0.0,1.0,0.0
+108,Fox News,.@RandPaul: “I think it’s historic that President Trump has had this meeting.” #Cavuto https://t.co/lRKCzf60sW,Tue Jun 12 20:18:54 +0000 2018,0.0,0.0,1.0,0.0
+109,Fox News,"RT @FoxBusiness: AT THE CLOSE: The Nasdaq finished the day at a new record close, its 19th record close this year.  The Dow Jones Industria…",Tue Jun 12 20:12:07 +0000 2018,0.0,0.0,1.0,0.0
+110,Fox News,"World Cup 2018 teams to watch, from Germany to Iceland https://t.co/NCtJAZM7m0",Tue Jun 12 20:07:49 +0000 2018,0.0,0.0,1.0,0.0
+111,Fox News,"JUST IN: Rosenstein threatened to 'subpoena' GOP-led committee in 'chilling' clash over records, emails show https://t.co/6ZgIvOz96A",Tue Jun 12 19:44:14 +0000 2018,-0.4588,0.0,0.833,0.167
+112,Fox News,"Former Gov. Bill Richardson: ""[Kim Jong Un's] nation wants an opportunity, like all people, to get out of the doldr… https://t.co/FdhI0Bi3U8",Tue Jun 12 19:41:11 +0000 2018,0.6486,0.218,0.782,0.0
+113,Fox News,".@POTUS: “We got a lot more done today than I ever thought possible.”
+
+President @realDonaldTrump talks to… https://t.co/TNvgMrAMG5",Tue Jun 12 19:39:00 +0000 2018,0.0,0.0,1.0,0.0
+114,Fox News,"Former Gov. Bill Richardson on #TrumpKimSummit: ""@SecPompeo needs to move in real quick...Seize on that momentum to… https://t.co/QBTye2OMGq",Tue Jun 12 19:36:27 +0000 2018,0.0,0.0,1.0,0.0
+115,Fox News,"Former Gov. Bill Richardson on #TrumpKimSummit: ""I've been involved with this issue a long time and it's always bee… https://t.co/Mf8MaAkblN",Tue Jun 12 19:29:43 +0000 2018,0.0,0.0,1.0,0.0
+116,Fox News,.@jasoninthehouse: @TheJusticeDept Will Hold Docs on @FBI Informant Until Congress 'Gets a Backbone'  #OutnumberedOT https://t.co/VOEF2E99JH,Tue Jun 12 19:21:41 +0000 2018,0.0,0.0,1.0,0.0
+117,Fox News,Parents of Otto Warmbier are hopeful 'something positive' can come from Trump-Kim summit https://t.co/woY4mdgEPO https://t.co/GvBsVXTHpS,Tue Jun 12 19:14:48 +0000 2018,0.7845,0.347,0.653,0.0
+118,Fox News,OPINION: Trump meets Kim and sets the stage for fundamental change in Asia -– Here's what his critics missed https://t.co/1z2EuJWFHI,Tue Jun 12 19:05:27 +0000 2018,-0.5267,0.0,0.804,0.196
+119,Fox News,Eurosatory 2018: Huge wheeled military ATV swims and surprises https://t.co/25707QhaBi,Tue Jun 12 18:56:23 +0000 2018,0.4939,0.344,0.656,0.0
+120,CNN,BREAKING: A federal judge has ruled that AT&amp;T can move forward with its $85 billion acquisition of Time Warner… https://t.co/Y1ZMi6UQBr,Tue Jun 12 20:54:11 +0000 2018,0.0,0.0,1.0,0.0
+121,CNN,The FBI agent who unintentionally shot someone while dancing in a Denver bar has turned himself in to police and is… https://t.co/1qmOsYK2PV,Tue Jun 12 20:50:09 +0000 2018,0.0,0.0,1.0,0.0
+122,CNN,"Bringing tamales and a whole team of volunteers, renowned chef José Andrés traveled to Guatemala four days after th… https://t.co/jrrtekHeZt",Tue Jun 12 20:40:06 +0000 2018,0.0,0.0,1.0,0.0
+123,CNN,"RT @TheLeadCNN: Sen. Bob Menendez says Trump achieved ""very little"" at the summit: ""What we needed, and what we still need, is a methodical…",Tue Jun 12 20:38:34 +0000 2018,0.0,0.0,1.0,0.0
+124,CNN,"A grandma irons her granddaughter's Pride flag, and the internet swoons https://t.co/FnX5jqmkjv https://t.co/X9vxweRg0x",Tue Jun 12 20:32:06 +0000 2018,0.34,0.179,0.821,0.0
+125,CNN,"Canada's House of Commons voted to send a symbolic message to the United States, standing against President Donald… https://t.co/C3mbjRi6bT",Tue Jun 12 20:25:05 +0000 2018,0.4215,0.141,0.859,0.0
+126,CNN,The case of the curiously compelling Dennis Rodman-Chris Cuomo interview | Analysis by @CillizzaCNN… https://t.co/iLLXlwPi8q,Tue Jun 12 20:18:04 +0000 2018,0.2263,0.128,0.872,0.0
+127,CNN,"Folk singer Joni Mitchell wrote the song ""River"" while sitting by the South Saskatoon River in Canada. Now, a walkw… https://t.co/BPIsxnC9Jp",Tue Jun 12 20:15:00 +0000 2018,0.0,0.0,1.0,0.0
+128,CNN,The French photographer at the center of a sexual harassment scandal that forced the postponement of this year's No… https://t.co/GabRGo0Yn5,Tue Jun 12 20:10:07 +0000 2018,-0.8555,0.0,0.63,0.37
+129,CNN,Netflix is now worth more than Disney. It’s valued at around $160 billion. https://t.co/xm78Az7kwW https://t.co/ZR4YrQaGcc,Tue Jun 12 20:05:00 +0000 2018,0.5859,0.27,0.73,0.0
+130,CNN,"Seattle's controversial new ""Amazon tax"" on employers passed just a month ago, but it could be repealed this week… https://t.co/wI56S9OwUP",Tue Jun 12 20:00:14 +0000 2018,-0.0129,0.068,0.861,0.071
+131,CNN,"After his expletive-laden rant about President Trump, Robert De Niro apologizes - to Canadians… https://t.co/Zy5hXioA6v",Tue Jun 12 19:52:06 +0000 2018,0.0258,0.148,0.71,0.142
+132,CNN,"RT @CNNnewsroom: At the end of his meeting with Kim Jong Un, President Trump ""pats him on the back and guides him out ... establishing domi…",Tue Jun 12 19:47:03 +0000 2018,0.0,0.0,1.0,0.0
+133,CNN,A Florida police chief is accused of framing four crimes on a teen so he could claim a 100% burglary clearance rate… https://t.co/zmZDDkVeyj,Tue Jun 12 19:46:47 +0000 2018,-0.296,0.0,0.896,0.104
+134,CNN,"RT @CNNnewsroom: ""The key question now is the details. What exactly is the president talking about? Will all training exercises (so called…",Tue Jun 12 19:44:48 +0000 2018,0.0,0.0,1.0,0.0
+135,CNN,"It's been two years since their son and 48 others were killed in the Pulse massacre, but for Maria and Fred Wright,… https://t.co/lSa9A6yEdg",Tue Jun 12 19:40:08 +0000 2018,-0.4118,0.0,0.889,0.111
+136,CNN,"Before celebrating a game-winning strikeout that led his team to the state tournament, this high school baseball pi… https://t.co/UppDKtVwx1",Tue Jun 12 19:35:00 +0000 2018,0.5719,0.179,0.821,0.0
+137,CNN,"RT @CNNnewsroom: Had President Obama met with Kim Jong Un, the way President Trump just did, how might Republicans have reacted? @BrookeBCN…",Tue Jun 12 19:33:10 +0000 2018,0.0,0.0,1.0,0.0
+138,CNN,"Emmy Reeves had Type 1 diabetes, but she was allergic to the insulin she needed to stay alive. She recently underwe… https://t.co/URo9Jf5m77",Tue Jun 12 19:30:19 +0000 2018,0.1531,0.135,0.754,0.111
+139,CNN,Country Time Lemonade is creating a team to help pay fines and permits for kids who want to run their own lemonade… https://t.co/WLDWF9FGto,Tue Jun 12 19:20:08 +0000 2018,0.5859,0.242,0.703,0.055
+140,BBC News (World),Ireland to hold referendum on blasphemy law https://t.co/lx3bradLO8,Tue Jun 12 20:57:08 +0000 2018,0.0,0.0,1.0,0.0
+141,BBC News (World),Judge clears AT&amp;T takeover of Time Warner https://t.co/Kw998VdGqi,Tue Jun 12 20:54:54 +0000 2018,0.0772,0.157,0.843,0.0
+142,BBC News (World),Ivanka Trump accused of tweeting 'fake' Chinese proverb https://t.co/39Z31sXVO8,Tue Jun 12 20:54:54 +0000 2018,-0.296,0.0,0.784,0.216
+143,BBC News (World),Do you have any burning questions about the #TrumpKimSummit? Tweet @BBCJonSopel using #BBCNewsTen https://t.co/IXpvcrNsbw,Tue Jun 12 20:52:58 +0000 2018,0.0,0.0,1.0,0.0
+144,BBC News (World),"Any questions about the historic #TrumpKimSummit? @BBCJonSopel will answer your queries, use #BBCNewsTen https://t.co/fXxKJJJTUx",Tue Jun 12 20:20:41 +0000 2018,0.0,0.0,1.0,0.0
+145,BBC News (World),World Cup: Nike boots barred for Iran footballers amid US sanctions https://t.co/cnNKTulFAF,Tue Jun 12 18:37:34 +0000 2018,0.0,0.0,1.0,0.0
+146,BBC News (World),Jean-Pierre Bemba: ICC orders release of Congo 'warlord' https://t.co/8fAf1Mkm1D,Tue Jun 12 18:05:58 +0000 2018,0.0,0.0,1.0,0.0
+147,BBC News (World),Macedonia and Greece: Deal after 27-year row over a name https://t.co/qmDaY4mMAb,Tue Jun 12 16:55:28 +0000 2018,0.0,0.0,1.0,0.0
+148,BBC News (World),Navarro sorry for 'special place in hell'' for Trudeau remark https://t.co/gyn2mkLhZ6,Tue Jun 12 16:53:14 +0000 2018,0.34,0.208,0.692,0.1
+149,BBC News (World),Spanish football league defends phone 'spying' https://t.co/J21rBPWZJZ,Tue Jun 12 16:20:12 +0000 2018,0.0,0.0,1.0,0.0
+150,BBC News (World),"RT @BBCNews: A win-win or a Kim win? #TrumpKimSummit 
+
+https://t.co/LS8uCH3v7j https://t.co/4g7DVT8O37",Tue Jun 12 16:08:12 +0000 2018,0.5859,0.322,0.678,0.0
+151,BBC News (World),"""Boy look at that view. Wouldn't that make a great condo?""
+
+From Trump's coastline compliment to Kim Jong-un's 'pen… https://t.co/wvoi9dlPQK",Tue Jun 12 15:50:24 +0000 2018,-0.05,0.133,0.727,0.141
+152,BBC News (World),Ten handshakes that shook the world https://t.co/UWGxXPMzKW,Tue Jun 12 15:42:33 +0000 2018,-0.1027,0.0,0.811,0.189
+153,BBC News (World),Vase found in shoebox sells for 16m euros https://t.co/xLOrzWbJFN,Tue Jun 12 15:14:31 +0000 2018,0.0,0.0,1.0,0.0
+154,BBC News (World),RT @BBCMonitoring: North Koreans have not yet seen any TV news reports of the historic meeting between leader Kim Jong-un and President Tru…,Tue Jun 12 15:08:54 +0000 2018,0.0,0.0,1.0,0.0
+155,BBC News (World),Win-win or a Kim win? https://t.co/HUTGpeHpQU,Tue Jun 12 14:26:33 +0000 2018,0.5859,0.487,0.513,0.0
+156,BBC News (World),"Jean-Claude Arnault, photographer in Nobel prize scandal, charged with rape https://t.co/BpgMIp4wdt",Tue Jun 12 14:21:25 +0000 2018,-0.7269,0.168,0.355,0.477
+157,BBC News (World),"People who have had strokes are learning to cook for themselves again, thanks to this one-handed cookbook… https://t.co/9EC2Cnggpr",Tue Jun 12 13:51:00 +0000 2018,0.4404,0.146,0.854,0.0
+158,BBC News (World),Trump Kim summit: Five odd moments from the day https://t.co/Iv6cf56hLw,Tue Jun 12 13:27:02 +0000 2018,-0.3182,0.0,0.796,0.204
+159,BBC News (World),Kim Trump summit: North Korea state TV not airing summit news https://t.co/7PpE3BGqHB,Tue Jun 12 13:24:35 +0000 2018,0.0,0.0,1.0,0.0
+160,CBS News,Parkland drama students surprise another New York audience: The high schoolers sang at a fundraiser for the summer… https://t.co/b2vQRcEyyA,Tue Jun 12 20:39:41 +0000 2018,0.2732,0.11,0.89,0.0
+161,CBS News,The University of Southern California is being federally investigated for possibly concealing the inappropriate beh… https://t.co/ct73wH6oI9,Tue Jun 12 20:20:01 +0000 2018,0.0,0.0,1.0,0.0
+162,CBS News,"George H.W. Bush celebrated his birthday Tuesday, becoming the first U.S. president to turn 94… https://t.co/t99ZqGQ2HT",Tue Jun 12 19:59:40 +0000 2018,0.5719,0.198,0.802,0.0
+163,CBS News,WATCH: This high school senior with Down Syndrome stole the show by jumping across his graduation stage in exciteme… https://t.co/TLEdqJe8cy,Tue Jun 12 19:45:19 +0000 2018,0.0,0.0,1.0,0.0
+164,CBS News,"Police swarmed a building in Paris on Tuesday, saying a man had taken two people hostage. The suspect has arrested,… https://t.co/x0sxCGf1Rx",Tue Jun 12 19:29:37 +0000 2018,-0.296,0.0,0.891,0.109
+165,CBS News,"For the second straight year, throngs of fans are celebrating the Golden State Warriors with a parade for a team so… https://t.co/L8ccU8wTPw",Tue Jun 12 19:18:39 +0000 2018,0.6808,0.237,0.763,0.0
+166,CBS News,Mitch McConnell becomes longest-serving Republican leader in history of Senate https://t.co/lxytJsyFjY https://t.co/6TCoC8ai6z,Tue Jun 12 19:14:32 +0000 2018,0.0,0.0,1.0,0.0
+167,CBS News,"Domino's fixing towns' crumbling roads -- patching up potholes with its logo -- in move to ""save"" pizza… https://t.co/rwhxBNlOWx",Tue Jun 12 19:00:03 +0000 2018,0.0,0.0,1.0,0.0
+168,CBS News,"U2 honors ""great storyteller"" Anthony Bourdain during concert at New York City's Apollo Theater… https://t.co/pvaDWSA8lx",Tue Jun 12 18:44:31 +0000 2018,0.8126,0.363,0.637,0.0
+169,CBS News,"Virginia primary voters to pick nominees in local, federal races https://t.co/Jy4n43vlJa https://t.co/OFSUwjrWCp",Tue Jun 12 18:29:57 +0000 2018,0.0,0.0,1.0,0.0
+170,CBS News,Couple stops to respectfully fold American flag after two people ripped it down and left it on the sidewalk… https://t.co/Wm6iJIMsqe,Tue Jun 12 18:19:47 +0000 2018,0.2732,0.121,0.807,0.072
+171,CBS News,"Neighbors stunned after ""pleasant"" man revealed to be long-missing Air Force officer https://t.co/QhdwEYtCbE https://t.co/gyr9vOTN5T",Tue Jun 12 18:14:57 +0000 2018,-0.1027,0.0,0.903,0.097
+172,CBS News,"""Dennis Rodman is probably the only one on the planet who knows both of them,"" @GayleKing says of President Trump a… https://t.co/H0CWlUt207",Tue Jun 12 18:13:31 +0000 2018,0.0,0.0,1.0,0.0
+173,CBS News,11 candidates seeking to succeed firebrand Maine Gov. LePage in Tuesday's primary  https://t.co/N7laRnJnfQ https://t.co/GFJw12IpDw,Tue Jun 12 17:59:45 +0000 2018,0.4939,0.198,0.802,0.0
+174,CBS News,"Hostage situation unfolding in Paris. Negotiations with the suspect were taking place, according to an Interior Min… https://t.co/UJ6tsl7nFy",Tue Jun 12 17:44:40 +0000 2018,-0.296,0.0,0.885,0.115
+175,CBS News,"WATCH: The championship parade for Stanley Cup champs, the Washington Capitals, is underway https://t.co/JvnOxNMouK https://t.co/n8b0X86TCF",Tue Jun 12 17:35:03 +0000 2018,0.6908,0.305,0.695,0.0
+176,CBS News,Canada’s Parliament has voted unanimously to condemn President Trump following his attacks against Prime Minister J… https://t.co/x6qlPUjr5g,Tue Jun 12 17:29:44 +0000 2018,-0.6705,0.0,0.732,0.268
+177,CBS News,Extreme fire danger forces rare shutdown of national forests in West https://t.co/1rlj92zMy3 https://t.co/eu1WHem8QO,Tue Jun 12 17:14:45 +0000 2018,-0.7003,0.0,0.655,0.345
+178,CBS News,"Catholic priest shot to death at altar by gunmen in Philippines, Philippines Catholic Bishops Conference says he wa… https://t.co/YlAIMYuBta",Tue Jun 12 16:59:41 +0000 2018,-0.5994,0.0,0.822,0.178
+179,CBS News,"A high school pitcher was playing against his best friend in the state championship game, and instead of celebratin… https://t.co/K3dCJdQIRj",Tue Jun 12 16:45:11 +0000 2018,0.9022,0.446,0.554,0.0
+180,The New York Times,Breaking News: AT&amp;T’s blockbuster $85.4 billion takeover of Time Warner was approved by a judge who ruled against t… https://t.co/th9bnYc8YV,Tue Jun 12 20:47:42 +0000 2018,0.7717,0.283,0.717,0.0
+181,The New York Times,RT @nytimesbusiness: AT&amp;T and Time Warner just won a court's approval to close their $85.4 billion deal. It will create a media and telecom…,Tue Jun 12 20:43:22 +0000 2018,0.836,0.319,0.681,0.0
+182,The New York Times,"RT @poniewozik: My review of ABC's ""The Last Defense,"" which applies the true-crime-doc format to question death-row convictions. https://t…",Tue Jun 12 20:31:38 +0000 2018,0.0,0.0,1.0,0.0
+183,The New York Times,North Korea is one of the world’s most isolated countries. Is anyone ready to do business there? https://t.co/j3QbJdAGD3,Tue Jun 12 20:16:04 +0000 2018,-0.024,0.119,0.759,0.123
+184,The New York Times,"Tesla will cut 9 percent of its work force, part of an effort to “reduce costs and become profitable,” Elon Musk sa… https://t.co/bGubFxL9Ci",Tue Jun 12 20:03:21 +0000 2018,-0.2732,0.0,0.909,0.091
+185,The New York Times,RT @carlzimmer: Some CRISPR-based companies took a tumble in the stock market yesterday. I take a look at the studies that triggered the fa…,Tue Jun 12 19:50:17 +0000 2018,0.0,0.0,1.0,0.0
+186,The New York Times,"In Opinion, 
+
+""Trump’s diplomacy, however unconventional, has pierced the isolation bubble of the North Korean lead… https://t.co/8YZ14AO3n0",Tue Jun 12 19:31:07 +0000 2018,-0.4019,0.0,0.856,0.144
+187,The New York Times,"Years of efforts to prevent sexual harassment of women in the fields of science, engineering and medicine have not… https://t.co/RxDpHOpaBc",Tue Jun 12 19:16:07 +0000 2018,-0.5267,0.049,0.796,0.155
+188,The New York Times,North Korea made few concessions. But here’s why President Trump is still betting on his “special bond” with Kim Jo… https://t.co/Y0oIVra8H5,Tue Jun 12 19:01:03 +0000 2018,0.0,0.0,1.0,0.0
+189,The New York Times,"RT @NYTNational: Republicans say they are due for a rebound in Virginia: “I have a hard time believing the Democratic spin, if their high-w…",Tue Jun 12 18:46:05 +0000 2018,-0.1027,0.0,0.938,0.062
+190,The New York Times,The brother-in-law of Spain’s King will most likely go to prison for his involvement in a fraud case https://t.co/Py11FfmLCD,Tue Jun 12 18:31:04 +0000 2018,-0.7964,0.0,0.693,0.307
+191,The New York Times,President Trump and North Korean leader Kim Jong-un signed a joint statement on Tuesday that opened the door to end… https://t.co/NxSG19ZZdU,Tue Jun 12 18:16:03 +0000 2018,0.0,0.0,1.0,0.0
+192,The New York Times,"RT @NYTArchives: Anne Frank was born on this day in 1929. The Times published a review when her diary was translated, writing that her voic…",Tue Jun 12 18:01:04 +0000 2018,0.0,0.0,1.0,0.0
+193,The New York Times,The plan to save NYC’s subway has an ambitious timeline. Is it even possible? https://t.co/km9uddzdzz,Tue Jun 12 17:46:04 +0000 2018,0.743,0.326,0.674,0.0
+194,The New York Times,"Teachers in Illinois are being training to use guns, even though concealed weapons are prohibited on school campuses https://t.co/gt2bNqOPO9",Tue Jun 12 17:31:05 +0000 2018,-0.4404,0.0,0.861,0.139
+195,The New York Times,RT @arappeport: Peter Navarro says he's sorry for saying there's a 'special place in hell' for Canadian PM Justin Trudeau. https://t.co/eFA…,Tue Jun 12 17:17:59 +0000 2018,-0.4939,0.105,0.664,0.23
+196,The New York Times,10 simple takeaways from Trump’s summit meeting with Kim Jong-un https://t.co/vEh4ClPj5q,Tue Jun 12 17:01:05 +0000 2018,0.0,0.0,1.0,0.0
+197,The New York Times,"Here’s what you need to know about the primaries in Nevada, Virginia, Maine, South Carolina and North Dakota https://t.co/FAZuBE0OJP",Tue Jun 12 16:46:05 +0000 2018,0.0,0.0,1.0,0.0
+198,The New York Times,"After meeting with Kim Jong-un, Trump answered questions about Otto Warmbier, war games and that iPad video https://t.co/nrFwVOw4ad",Tue Jun 12 16:31:08 +0000 2018,-0.5994,0.0,0.813,0.187
+199,The New York Times,"If your waist measures 35 or more inches for women or 40 or more inches for men, chances are you're harboring a pot… https://t.co/hhaSKA6LZo",Tue Jun 12 16:16:02 +0000 2018,0.2023,0.076,0.924,0.0
+200,Fox News,Crowds of Washington @Capitals fans showed up to the National Mall Tuesday to celebrate the team's first… https://t.co/ksplof7H0H,Tue Jun 12 18:51:03 +0000 2018,0.5719,0.179,0.821,0.0
+201,Fox News,".@ChrisStirewalt: “There’s been disagreement between the two houses, between branches of the Democratic party about… https://t.co/lCarn5acPW",Tue Jun 12 18:38:36 +0000 2018,0.0516,0.141,0.729,0.13
+202,Fox News,".@POTUS: “Without the rhetoric we wouldn’t have been here.”
+
+President @realDonaldTrump talks to @seanhannity about… https://t.co/gkYAoPWmQI",Tue Jun 12 18:37:00 +0000 2018,0.0,0.0,1.0,0.0
+203,Fox News,Alexander Vershbow on the Trump-Kim summit @dailybriefing https://t.co/oByqkBJ1xm,Tue Jun 12 18:28:04 +0000 2018,0.0,0.0,1.0,0.0
+204,Fox News,"After Trump summit with Kim, families of Korean War missing hoping for closure (via @AndrewOReilly84) https://t.co/6VIYVACfr3",Tue Jun 12 18:24:51 +0000 2018,-0.5106,0.128,0.594,0.279
+205,Fox News,RT @FoxBusiness: JUST IN: Tesla to cut 9% of workforce https://t.co/SHuLVjOYB1 https://t.co/l1WxnNUDzQ,Tue Jun 12 18:20:58 +0000 2018,-0.2732,0.0,0.84,0.16
+206,Fox News,.@JessicaTarlov: People on Both Sides Believe @NikkiHaley Could Be First Female President https://t.co/xLU2w1htOt,Tue Jun 12 18:19:04 +0000 2018,0.0,0.0,1.0,0.0
+207,Fox News,.@POTUS and Kim shake hands on landmark agreement https://t.co/seCPDmFvDh @dailybriefing https://t.co/KAySxezigJ,Tue Jun 12 18:16:17 +0000 2018,0.4215,0.317,0.563,0.12
+208,Fox News,Tim Tebow slams critics using kneeling photo to support NFL anthem protesters (via @CalebParke) https://t.co/FUflDFCHdj,Tue Jun 12 18:13:56 +0000 2018,-0.1027,0.144,0.638,0.218
+209,Fox News,Nunes sets today as the deadline for @TheJusticeDept to turn over more documents on alleged FBI informant… https://t.co/iUIc3pPRjQ,Tue Jun 12 18:07:29 +0000 2018,0.0,0.0,1.0,0.0
+210,Fox News,Illinois police officer saves child running along busy road https://t.co/lGHt0LEExX,Tue Jun 12 18:06:33 +0000 2018,0.0,0.0,1.0,0.0
+211,Fox News,"Border patrol agent shot, wounded in southern Arizona https://t.co/Bzr3V1u7Mt",Tue Jun 12 17:51:34 +0000 2018,0.0,0.0,1.0,0.0
+212,Fox News,".@POTUS: “We are now going to start the process of denuclearization of North Korea.”
+
+President @realDonaldTrump ta… https://t.co/C1WOpIdjT9",Tue Jun 12 17:36:00 +0000 2018,0.0,0.0,1.0,0.0
+213,Fox News,Alec Baldwin says he 'would absolutely win' in 2020 election https://t.co/O6wpMdmW9X https://t.co/NUNxbDIOwG,Tue Jun 12 17:35:39 +0000 2018,0.624,0.271,0.729,0.0
+214,Fox News,Staten Island baseball team renamed ‘Pizza Rats’ after fan vote https://t.co/O8O9QnEwVC,Tue Jun 12 17:27:55 +0000 2018,0.3182,0.187,0.813,0.0
+215,Fox News,'Pregnant' male models steal the show at London Fashion Week https://t.co/cA8X8gguPz,Tue Jun 12 17:18:54 +0000 2018,-0.4939,0.0,0.758,0.242
+216,Fox News,.@SenatorRisch: “We have a unique president and he uniquely got this done.” #OutnumberedOT https://t.co/gpteNYWod0,Tue Jun 12 17:13:53 +0000 2018,0.0,0.0,1.0,0.0
+217,Fox News,.@SenatorMenendez: “This is the weakest statement I have ever seen come out of any engagement with North Korea.” https://t.co/hVIiM6hMKq,Tue Jun 12 17:08:25 +0000 2018,-0.0772,0.135,0.717,0.148
+218,Fox News,"Deer wanders into DC Metro station, darts close to train before fleeing https://t.co/GL2bQSjlHC",Tue Jun 12 16:58:12 +0000 2018,0.0,0.0,1.0,0.0
+219,Fox News,Florida fire station welcomes 9 babies in 10 months https://t.co/aVdCaxYL0r https://t.co/wXLemhOWOD,Tue Jun 12 16:43:23 +0000 2018,0.0772,0.206,0.611,0.183
+220,CNN,"""Tiny pieces, medium size... We literally had to spend hours per day piecing together the puzzle prior to taping"" p… https://t.co/90ptHyeebO",Tue Jun 12 19:15:00 +0000 2018,0.0,0.0,1.0,0.0
+221,CNN,George H.W. Bush just became the first former US president to turn 94 https://t.co/Em2sILnp2A https://t.co/rJIR1qWbbL,Tue Jun 12 19:10:06 +0000 2018,0.0,0.0,1.0,0.0
+222,CNN,"A US Border Patrol agent was shot in southern Arizona near the border with Mexico, and several people in the area w… https://t.co/nd7qwq9ylV",Tue Jun 12 19:00:02 +0000 2018,0.0,0.0,1.0,0.0
+223,CNN,"RT @CNNnewsroom: Hearing the President call one of our closest allies weak is “deeply distressing, but so jarring when you compare it to th…",Tue Jun 12 18:59:56 +0000 2018,-0.4215,0.0,0.853,0.147
+224,CNN,10 Nigerian children who were being smuggled in an attempt to exploit relaxed rules for entry into Russia ahead of… https://t.co/NH1XjeaqxA,Tue Jun 12 18:50:05 +0000 2018,0.0772,0.127,0.717,0.155
+225,CNN,"Samuel Tom Holiday, one of the longest surviving Navajo Code Talkers from World War II, has died, just days after c… https://t.co/8EcnY8J6YL",Tue Jun 12 18:40:07 +0000 2018,-0.5574,0.161,0.592,0.247
+226,CNN,"A grand jury in Virginia has indicted actress and activist Rose McGowan on one felony count of cocaine possession,… https://t.co/ptVHffQ2C7",Tue Jun 12 18:35:08 +0000 2018,-0.128,0.128,0.723,0.149
+227,CNN,"Two years ago, 49 people were killed at the Pulse nightclub in Orlando. Here are their names and stories:… https://t.co/rseaLhWidO",Tue Jun 12 18:30:11 +0000 2018,-0.6705,0.0,0.809,0.191
+228,CNN,Why eating at work can add on the pounds https://t.co/qyhQgKAaAY https://t.co/zuKyMMSq2d,Tue Jun 12 18:20:08 +0000 2018,0.0,0.0,1.0,0.0
+229,CNN,Trump had a chance to cut Canada's dairy tariffs. He walked away. https://t.co/JxAtOfxPUM https://t.co/wLVQZCQBEu,Tue Jun 12 18:10:09 +0000 2018,-0.0258,0.132,0.728,0.139
+230,CNN,27 people have been arrested after two men were beaten to death by a mob following false social media reports sugge… https://t.co/tyNsKyOAa1,Tue Jun 12 18:00:05 +0000 2018,-0.8689,0.0,0.647,0.353
+231,CNN,"Kellyanne Conway's husband, George Conway, defends special counsel Robert Mueller's legal authority in the Russia i… https://t.co/Gw3sN8oHUG",Tue Jun 12 17:52:00 +0000 2018,0.5423,0.282,0.718,0.0
+232,CNN,President Trump pitched a message of peace between the United States and North Korea by showing North Korean dictat… https://t.co/8yyNGyYAMS,Tue Jun 12 17:40:00 +0000 2018,0.743,0.27,0.73,0.0
+233,CNN,President Trump and Kim Jong Un met for the first time. Here's how it played out: https://t.co/dQUvb5OdVB https://t.co/YCjlDWkfmL,Tue Jun 12 17:30:08 +0000 2018,0.34,0.124,0.876,0.0
+234,CNN,Christian Louboutin has claimed victory in a legal battle over its signature red-soled shoes https://t.co/JS7Hu2YyF2 https://t.co/ivKKKGg6en,Tue Jun 12 17:23:00 +0000 2018,-0.2732,0.088,0.76,0.152
+235,CNN,"Puerto Rico’s governor said there would be ""hell to pay"" if data related to Hurricane Maria's death toll was withhe… https://t.co/CezRrqfNDr",Tue Jun 12 17:10:07 +0000 2018,-0.872,0.0,0.645,0.355
+236,CNN,Sen. John Kennedy: “I think it’s important that we don’t lose sight of the fact that Kim Jong Un is... a butcher of… https://t.co/hbchKUzrE7,Tue Jun 12 17:00:27 +0000 2018,-0.2263,0.071,0.824,0.106
+237,CNN,Police in Virginia have arrested two young men who they say planned to open fire at a high school prom https://t.co/cgVyiM94Jj,Tue Jun 12 16:50:09 +0000 2018,-0.6705,0.0,0.766,0.234
+238,CNN,These sanctions will keep squeezing North Korea's economy https://t.co/HwZ0wyslqX https://t.co/C36XMr0G8l,Tue Jun 12 16:40:11 +0000 2018,0.0,0.0,1.0,0.0
+239,CNN,Democratic candidates in northern Virginia are hoping President Trump's unpopularity among the federal government w… https://t.co/EnBEGDk4Lj,Tue Jun 12 16:30:06 +0000 2018,0.4215,0.157,0.843,0.0
+240,BBC News (World),Chimamanda Ngozi Adichie wins PEN Pinter prize https://t.co/74haDV8C4y,Tue Jun 12 13:13:10 +0000 2018,0.7906,0.538,0.462,0.0
+241,BBC News (World),"Video shows jogger throwing away homeless man's possessions 
+
+https://t.co/YWPnJrcc3M https://t.co/JWNQSDwYwA",Tue Jun 12 12:49:38 +0000 2018,0.0,0.0,1.0,0.0
+242,BBC News (World),"Egypt's Salah ""used for political capital"" https://t.co/N6V4HTdFLD",Tue Jun 12 12:16:55 +0000 2018,0.0,0.0,1.0,0.0
+243,BBC News (World),"""The world will see a major change""
+
+#TrumpKim https://t.co/E9ndZbPv0T https://t.co/zUAC66Xlzu",Tue Jun 12 11:27:37 +0000 2018,0.0,0.0,1.0,0.0
+244,BBC News (World),Volkswagen Beetle: Mexico's enduring love of a classic car https://t.co/7fOLBvcEN0,Tue Jun 12 11:03:32 +0000 2018,0.6369,0.344,0.656,0.0
+245,BBC News (World),"US President Donald Trump on Kim Jong-un's ""opportunity"" 
+
+#TrumpKimSummit https://t.co/y2hdld3pPz https://t.co/dKb4HzhyOz",Tue Jun 12 11:00:05 +0000 2018,0.0,0.0,1.0,0.0
+246,BBC News (World),Louboutin wins legal battle over red soles https://t.co/jkrZt6Z7mW,Tue Jun 12 10:58:48 +0000 2018,0.3818,0.406,0.391,0.203
+247,BBC News (World),Private funeral held for Avicii in Sweden https://t.co/3gp6db9Jia,Tue Jun 12 10:56:25 +0000 2018,-0.3612,0.0,0.737,0.263
+248,BBC News (World),Trump Kim summit: What food was on the diplomatic menu? https://t.co/y8flxx7fIX,Tue Jun 12 10:49:11 +0000 2018,0.0,0.0,1.0,0.0
+249,BBC News (World),Germany recalls contaminated Dutch eggs in fipronil scare https://t.co/5QUzzcWtUi,Tue Jun 12 10:13:52 +0000 2018,-0.4939,0.0,0.714,0.286
+250,BBC News (World),Uber applies for patent to spot drunk passengers https://t.co/drkJgfz2XU,Tue Jun 12 10:07:04 +0000 2018,-0.34,0.0,0.769,0.231
+251,BBC News (World),Stranded migrants: Three ships to take 629 people on Aquarius to Spain https://t.co/fRtjpsSeFn,Tue Jun 12 09:50:38 +0000 2018,0.0,0.0,1.0,0.0
+252,BBC News (World),E3: Sony PlayStation 4's kiss kiss bang bang event https://t.co/jc6Hasg8q5,Tue Jun 12 09:48:15 +0000 2018,0.6808,0.412,0.588,0.0
+253,BBC News (World),"RT @BBCSport: Canada, US &amp; Mexico v Morocco. Who's going to get the nod for the 2026 #WorldCup? Time to take a look. 
+
+➡ https://t.co/6ihh1…",Tue Jun 12 09:32:22 +0000 2018,0.0,0.0,1.0,0.0
+254,BBC News (World),Trump on Kim: 'Past does not have to define our future' https://t.co/uI6k4k1mUv,Tue Jun 12 09:18:43 +0000 2018,0.0,0.0,1.0,0.0
+255,BBC News (World),Donald Trump reflects on historic #TrumpKimSummit and the road ahead https://t.co/SKctN5ncm0 https://t.co/VdFymIcuvB,Tue Jun 12 09:10:44 +0000 2018,0.0,0.0,1.0,0.0
+256,BBC News (World),"""I know it didn't look friendly..."" - US President Donald Trump offers his take on photo of G7 leaders that went vi… https://t.co/9xpTL9jD9Q",Tue Jun 12 09:00:43 +0000 2018,0.0,0.0,1.0,0.0
+257,BBC News (World),Trump: Kim talks 'honest and direct' https://t.co/dlCkJXVQnv,Tue Jun 12 08:53:26 +0000 2018,0.5106,0.355,0.645,0.0
+258,BBC News (World),"RT @BBCBreaking: #TrumpKimSummit: Donald Trump says US will be stopping ""very provocative"" war games with South Korea 
+
+Live updates: https…",Tue Jun 12 08:47:01 +0000 2018,-0.6983,0.0,0.757,0.243
+259,BBC News (World),Theresa May says G7 summit was 'difficult' occasion https://t.co/hBUctCuQIH,Tue Jun 12 08:46:29 +0000 2018,0.0,0.0,1.0,0.0
+260,CBS News,"WATCH: A squirrel helps himself to a bag of candy in Disney World, then scampers out the door with his loot.… https://t.co/PTBRaX8Udv",Tue Jun 12 16:30:02 +0000 2018,0.3818,0.12,0.88,0.0
+261,CBS News,"Hailey Dawson, an 8-year-old with a one-of-a-kind pitching hand, delivered the first throw at the Milwaukee… https://t.co/5jl7p3S1N8",Tue Jun 12 16:15:30 +0000 2018,0.4939,0.176,0.824,0.0
+262,CBS News,Rose McGowan indicted on cocaine charge in Virginia https://t.co/QBSZhRIQvJ https://t.co/V6lb2U2bFd,Tue Jun 12 15:54:37 +0000 2018,0.0,0.0,1.0,0.0
+263,CBS News,"""A lot of tears"": Lava destroys as many as 700 homes in Hawaii https://t.co/XI2ittT94e https://t.co/ZzTBxuLXVl",Tue Jun 12 15:34:30 +0000 2018,-0.5574,0.0,0.795,0.205
+264,CBS News,"Hostage situation unfolding in Paris, Paris police say there is no indication yet of a link to terrorism, but heavi… https://t.co/Twkz0iSXpX",Tue Jun 12 15:19:41 +0000 2018,-0.5267,0.0,0.804,0.196
+265,CBS News,"This man is traveling to all 50 states with his lawn mower, cutting grass for people in need. Now, his movement is… https://t.co/P8cbPYLw5h",Tue Jun 12 15:06:31 +0000 2018,-0.128,0.0,0.936,0.064
+266,CBS News,Here is the agreement President Trump and Kim Jong UN signed https://t.co/XUzmPQ7Hrk https://t.co/toIsG2ytnw,Tue Jun 12 14:29:34 +0000 2018,0.4939,0.211,0.789,0.0
+267,CBS News,"Olympic skier Bode Miller's 19-month-old daughter of drowns in pool, authorities say https://t.co/OUjuqmR6mE https://t.co/lCRblge2vE",Tue Jun 12 14:14:45 +0000 2018,-0.4939,0.0,0.802,0.198
+268,CBS News,Ohio plans to resume its process for removing inactive voters after it was affirmed in Monday's 5-4 ruling.… https://t.co/NkfWK8dGsz,Tue Jun 12 13:59:40 +0000 2018,0.0,0.0,1.0,0.0
+269,CBS News,Eric Trump cut the ribbon on a new clubhouse at a golf course on Monday and said his family's golf empire is doing… https://t.co/leICqPXUkb,Tue Jun 12 13:29:38 +0000 2018,-0.2732,0.0,0.909,0.091
+270,CBS News,"This man is traveling to all 50 states with his lawn mower, cutting grass for people in need. Now, his movement is… https://t.co/vNvvNtNtiq",Tue Jun 12 13:15:50 +0000 2018,-0.128,0.0,0.936,0.064
+271,CBS News,Investors in wait-and-see mode after Trump-Kim summit https://t.co/7yApBG1orX https://t.co/FFXdXyv7YR,Tue Jun 12 12:59:40 +0000 2018,0.0,0.0,1.0,0.0
+272,CBS News,"Trevor Noah joins @CBSThisMorning to discuss his new book: “Born a Crime: Stories from a South African Childhood,”… https://t.co/ZGseddoR3Q",Tue Jun 12 12:50:25 +0000 2018,-0.5423,0.0,0.821,0.179
+273,CBS News,Pharmaceutical giant Mylan is making strides in the fast-growing biosimilar market. Biosimilars are drugs and devic… https://t.co/18KvEuU2S4,Tue Jun 12 12:39:23 +0000 2018,0.0,0.0,1.0,0.0
+274,CBS News,"""[Kim Jong Un] kills his own people in large numbers. He killed Otto Warmbier. He is a very bad guy. But I'm willin… https://t.co/ZH5VWqUATE",Tue Jun 12 12:37:19 +0000 2018,-0.7504,0.0,0.73,0.27
+275,CBS News,"""President Trump has to convince Kim Jong Un he's safer and more prosperous without nuclear weapons. This is a firs… https://t.co/ZFH8T9TNwa",Tue Jun 12 12:35:24 +0000 2018,0.8624,0.398,0.602,0.0
+276,CBS News,"RT @CBSThisMorning: ""One thing I would tell you, if there is an agreement it must come to congress for our approval,"" Senator @LindseyGraha…",Tue Jun 12 12:35:14 +0000 2018,0.4939,0.132,0.868,0.0
+277,CBS News,"""[Kim Jong Un] can come to the White House as long as he gives up his nuclear program, gives up his missile program… https://t.co/FTfwsiRVUo",Tue Jun 12 12:33:58 +0000 2018,0.0,0.0,1.0,0.0
+278,CBS News,"""They're going to start immediately. They really have already started,"" President Trump says of North Korea's promi… https://t.co/JRslGZbDMV",Tue Jun 12 12:20:31 +0000 2018,0.0,0.0,1.0,0.0
+279,CBS News,"Republican Sen. @LindseyGrahamSC joins @CBSThisMorning from Washington, D.C. to discuss the agreement with North Ko… https://t.co/5FB5DvUkMG",Tue Jun 12 12:15:22 +0000 2018,0.4939,0.176,0.824,0.0
+280,The New York Times,There was an iPad video. A tour of the Beast. Lots of handshakes. And Dennis Rodman. This was no ordinary summit me… https://t.co/z8eTX1nMMr,Tue Jun 12 16:01:40 +0000 2018,-0.296,0.0,0.905,0.095
+281,The New York Times,RT @viaSimonRomero: Our report from Nogales on the resurgent flow of asylum seekers from crime-ravaged Central America: Entire families sle…,Tue Jun 12 15:48:38 +0000 2018,0.0,0.0,1.0,0.0
+282,The New York Times,The AT&amp;T-Time Warner antitrust ruling could have big implications for dealmakers and media companies. Here's why it… https://t.co/csDY9RQRLI,Tue Jun 12 15:31:07 +0000 2018,0.0,0.0,1.0,0.0
+283,The New York Times,"""Otto was someone who did not die in vain."" President Trump said the death of Otto Warmbier, an American college st… https://t.co/9xumtIS5B2",Tue Jun 12 15:15:03 +0000 2018,-0.1911,0.116,0.739,0.144
+284,The New York Times,"RT @tackettdc: “As an example, they have great beaches,” he said during a news conference after his meeting with Mr. Kim. “You see that whe…",Tue Jun 12 15:00:39 +0000 2018,0.6249,0.151,0.849,0.0
+285,The New York Times,"A man killed four children and then himself in Orlando, after a 21-hour standoff that began with a call reporting d… https://t.co/MhovvyxHzM",Tue Jun 12 14:45:06 +0000 2018,-0.6705,0.0,0.8,0.2
+286,The New York Times,"One lesson from everything that has happened online recently is that, in the absence stringent rules and enforcemen… https://t.co/IgFK8SjUb7",Tue Jun 12 14:30:13 +0000 2018,0.0,0.0,1.0,0.0
+287,The New York Times,Full text of the Trump-Kim summit statement https://t.co/6vEeZMaFkZ,Tue Jun 12 14:20:09 +0000 2018,0.0,0.0,1.0,0.0
+288,The New York Times,RT @NYTNational: Grim sight at an Arizona border crossing: Children sleep on the ground as the U.S. slows asylum processing https://t.co/RW…,Tue Jun 12 14:10:04 +0000 2018,-0.5719,0.0,0.844,0.156
+289,The New York Times,"""With every rifle crack, my world flashed in a monochrome of stark, tactical decisions, like life and death reduced… https://t.co/5BrWxom1y4",Tue Jun 12 14:00:32 +0000 2018,-0.34,0.107,0.726,0.167
+290,The New York Times,President Trump's pledge to cancel military exercises on the Korean Peninsula surprised not only allies in South Ko… https://t.co/LT0bOSWOcC,Tue Jun 12 13:50:10 +0000 2018,-0.0258,0.091,0.813,0.096
+291,The New York Times,"Spain's Supreme Court upheld a prison sentence for Iñaki Urdangarin, the brother-in-law of King Felipe VI https://t.co/pLDIpOih3E",Tue Jun 12 13:40:07 +0000 2018,0.1531,0.231,0.613,0.156
+292,The New York Times,Jeff Sessions made it all but impossible for asylum seekers to gain entry into the United States by citing fears of… https://t.co/zJyTHPpYxQ,Tue Jun 12 13:29:05 +0000 2018,0.6808,0.268,0.613,0.119
+293,The New York Times,The populist Italian government refused to allow a rescue boat carrying hundreds of migrants to dock in the country… https://t.co/Qre9LkwmYZ,Tue Jun 12 13:22:01 +0000 2018,0.4588,0.222,0.684,0.094
+294,The New York Times,Video: President Trump speaks about his plans to invite Kim Jong-un to the White House https://t.co/L8yNkMtkXv,Tue Jun 12 13:10:05 +0000 2018,0.1531,0.096,0.904,0.0
+295,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/gySc54o8tM https://t.co/PL0RyFtwEm,Tue Jun 12 13:00:13 +0000 2018,0.0,0.0,1.0,0.0
+296,The New York Times,"Sepp Blatter, the former FIFA president who is serving a six-year ban from all soccer-related activities, has an op… https://t.co/2O49G99Xc5",Tue Jun 12 12:50:00 +0000 2018,-0.5574,0.0,0.833,0.167
+297,The New York Times,"Kim Jong-un rules with extreme brutality, making his nation among the worst human rights violators in the world. He… https://t.co/DzmM8N7f68",Tue Jun 12 12:40:09 +0000 2018,-0.9001,0.0,0.607,0.393
+298,The New York Times,Late-night hosts offered their takes on the historic meeting between President Trump and Kim Jong-un. A roundup: https://t.co/ul9rYS9Xsr,Tue Jun 12 12:30:11 +0000 2018,0.0,0.0,1.0,0.0
+299,The New York Times,"During their first year in government service, Ivanka Trump and Jared Kushner remained investors through various ve… https://t.co/qNVUin5YQe",Tue Jun 12 12:15:03 +0000 2018,0.0,0.0,1.0,0.0
+300,Fox News,OPINION: @HeyTammyBruce: De Niro's crude attack on Trump proves liberals are beside themselves that the he keeps wi… https://t.co/5NwOhk2Cqw,Tue Jun 12 16:37:01 +0000 2018,-0.7783,0.0,0.714,0.286
+301,Fox News,".@POTUS: “We got along very well. We got along from the beginning.”
+
+President @realDonaldTrump talks to… https://t.co/3V8xeopbZg",Tue Jun 12 16:29:50 +0000 2018,0.3384,0.13,0.87,0.0
+302,Fox News,.@POTUS delivered remarks following his historic summit with North Korean leader Kim Jong Un.… https://t.co/85T1LjLMFy,Tue Jun 12 16:25:25 +0000 2018,0.0,0.0,1.0,0.0
+303,Fox News,Man reunited with baby he saved with CPR on side of highway https://t.co/p9wb0nUUSS,Tue Jun 12 16:15:43 +0000 2018,0.4215,0.189,0.811,0.0
+304,Fox News,Alec Baldwin says he 'would absolutely win' against Trump in 2020 election https://t.co/3Zg5OAY3M4,Tue Jun 12 16:08:55 +0000 2018,0.624,0.254,0.746,0.0
+305,Fox News,President Trump and Kim Jong Un agree to hold follow-up negotiations to be led by Secretary of State Mike Pompeo;… https://t.co/OmCKcWcDl1,Tue Jun 12 16:07:42 +0000 2018,0.3612,0.111,0.889,0.0
+306,Fox News,Boy facing terminal brain tumor made trooper for a day https://t.co/FEgfkfstvg,Tue Jun 12 15:59:20 +0000 2018,-0.3818,0.0,0.776,0.224
+307,Fox News,".@MacThornberry: Part of what I believe brought Kim Jong Un to this point were the economic sanctions, the diplomat… https://t.co/3iNfnfDUAP",Tue Jun 12 15:52:31 +0000 2018,0.0,0.0,1.0,0.0
+308,Fox News,#Pulse nightclub massacre anniversary to be marked by die-in's across country https://t.co/SOJOk8lnQL,Tue Jun 12 15:46:15 +0000 2018,0.0,0.0,1.0,0.0
+309,Fox News,.@SteveScalise to return to the field for Congressional baseball game Thursday @AmericaNewsroom https://t.co/cmL28quUWo,Tue Jun 12 15:41:38 +0000 2018,0.0,0.0,1.0,0.0
+310,Fox News,.@SteveScalise on @SecPompeo: “I am so proud of the work he’s doing to represent our country and represent our pres… https://t.co/1pQnqWvyYs,Tue Jun 12 15:34:45 +0000 2018,0.6113,0.166,0.834,0.0
+311,Fox News,"RT @FoxBusiness: Small business optimism soars, resulting in increased hiring and wages https://t.co/m6iysI9w2E",Tue Jun 12 15:29:10 +0000 2018,0.6808,0.337,0.663,0.0
+312,Fox News,.@adrienneelrod on historic North Korea summit @AmericaNewsroom https://t.co/OWOrHB1vOi,Tue Jun 12 15:27:07 +0000 2018,0.0,0.0,1.0,0.0
+313,Fox News,"Photo of boy, 6, comforting sister dying of rare brain cancer goes viral https://t.co/wmqTxKPvQ1",Tue Jun 12 15:17:26 +0000 2018,-0.4019,0.141,0.628,0.23
+314,Fox News,.@CLewandowski_ on @POTUS and historic North Korea summit @AmericaNewsroom https://t.co/qImu0pNcLc,Tue Jun 12 15:14:11 +0000 2018,0.0,0.0,1.0,0.0
+315,Fox News,Michael Anton: “This will go as fast as the North Koreans want it to go...I think we're at this point right now bec… https://t.co/cd0TmXfKO5,Tue Jun 12 15:08:38 +0000 2018,0.0772,0.053,0.947,0.0
+316,Fox News,.@newtgingrich on Trump-Kim summit: “I can’t imagine a much more historic day than the meeting in Singapore.”… https://t.co/1KHALlh67X,Tue Jun 12 14:59:50 +0000 2018,0.0,0.0,1.0,0.0
+317,Fox News,Squirrel filmed stealing M&amp;Ms from @WaltDisneyWorld store dubbed a 'cute little shoplifter' https://t.co/aAleWaPc6k,Tue Jun 12 14:54:06 +0000 2018,-0.1779,0.18,0.599,0.222
+318,Fox News,".@RepPeteKing: If we want to strengthen our negotiating position, Congress has to show that it stands with the pres… https://t.co/YGvGMh98LC",Tue Jun 12 14:50:03 +0000 2018,0.3818,0.167,0.833,0.0
+319,Fox News,.@GOPChairwoman on Trump-Kim meeting: “This is good for our world. It's good for our country…It is a historic time… https://t.co/1bZpzbUIH8,Tue Jun 12 14:47:12 +0000 2018,0.7003,0.254,0.746,0.0
+320,CNN,Ivanka Trump and Jared Kushner reveal new details of their enormous wealth https://t.co/LgV2qosrRz https://t.co/uNf5qAICyr,Tue Jun 12 16:22:00 +0000 2018,0.4939,0.198,0.802,0.0
+321,CNN,"White House trade adviser Peter Navarro apologizes after saying ""there's a special place in hell"" for Canadian Prim… https://t.co/2wNFqTHZoi",Tue Jun 12 16:12:05 +0000 2018,-0.1027,0.21,0.605,0.185
+322,CNN,The two really important people at the summit (beside Trump and Kim) https://t.co/vQydLccwgz https://t.co/A5zwhLkUCO,Tue Jun 12 16:03:45 +0000 2018,0.2716,0.139,0.861,0.0
+323,CNN,Netflix is now worth more than Disney. It’s valued at around $160 billion. https://t.co/xm78Az7kwW https://t.co/02qBYFVRNB,Tue Jun 12 15:51:08 +0000 2018,0.5859,0.27,0.73,0.0
+324,CNN,A sign of President Trump's confidence about his summit with North Korean dictator Kim Jong Un: He gave a lengthy p… https://t.co/QthOZrZoBY,Tue Jun 12 15:40:05 +0000 2018,0.5106,0.148,0.852,0.0
+325,CNN,Jeep Grand Cherokee and Ford Explorer get worst ratings in crash test https://t.co/cAPFBWW5UT https://t.co/ciWq9JoYHt,Tue Jun 12 15:30:07 +0000 2018,-0.5859,0.144,0.529,0.327
+326,CNN,President Trump praised North Korean dictator Kim Jong Un -- a man who leads a government that outside observers sa… https://t.co/WHIdcJasjk,Tue Jun 12 15:20:12 +0000 2018,0.4939,0.151,0.849,0.0
+327,CNN,Kim had a great summit. And he didn't even need to give anything away. | Analysis by @jamietarabay… https://t.co/biyS7lX2Ry,Tue Jun 12 15:10:02 +0000 2018,0.6249,0.204,0.796,0.0
+328,CNN,George H.W. Bush just became the first former US president to turn 94 https://t.co/z6zJuch5ed https://t.co/obC2PKHzXa,Tue Jun 12 15:01:47 +0000 2018,0.0,0.0,1.0,0.0
+329,CNN,Employees can choose from seven business or computer science-related bachelor's degrees selected at three universit… https://t.co/AJ90KcedtD,Tue Jun 12 14:44:21 +0000 2018,0.0,0.0,1.0,0.0
+330,CNN,Discover is offering its workers a new perk: A free college degree https://t.co/Eh9cBcuQwa https://t.co/Ej3JZP0nzx,Tue Jun 12 14:43:37 +0000 2018,0.5106,0.231,0.769,0.0
+331,CNN,RT @CNNPolitics: Senate Majority Leader Mitch McConnell on the Trump-Kim summit: “Today I congratulate the President on this major step and…,Tue Jun 12 14:30:06 +0000 2018,0.4939,0.144,0.856,0.0
+332,CNN,"Asked about former Minnesota Sen. Al Franken's resignation from Congress following sexual harassment allegations, f… https://t.co/dHdjVyaOEO",Tue Jun 12 14:29:49 +0000 2018,-0.6908,0.0,0.711,0.289
+333,CNN,"Alec Baldwin 2020? During an interview with Howard Stern, Baldwin said that if he made a bid for the White House, h… https://t.co/Q95zb4QvyW",Tue Jun 12 14:16:31 +0000 2018,0.0,0.0,1.0,0.0
+334,CNN,"Two years ago, 49 people were killed at the Pulse nightclub in Orlando. Here are their names and stories:… https://t.co/otjmAnTL4r",Tue Jun 12 14:04:28 +0000 2018,-0.6705,0.0,0.809,0.191
+335,CNN,5 key quotes from Trump's first post-summit interview: https://t.co/7RDoHC6dQl https://t.co/8wRPsWxHHQ,Tue Jun 12 13:52:20 +0000 2018,0.0,0.0,1.0,0.0
+336,CNN,"Kellyanne Conway's husband, George Conway, defends special counsel Robert Mueller's legal authority in the Russia i… https://t.co/yAqRJGDrQz",Tue Jun 12 13:50:09 +0000 2018,0.5423,0.282,0.718,0.0
+337,CNN,"Emmy Reeves had Type 1 diabetes, but she was allergic to the insulin she needed to stay alive. She recently underwe… https://t.co/Y4QXXP960o",Tue Jun 12 13:40:09 +0000 2018,0.1531,0.135,0.754,0.111
+338,CNN,"Police are searching for an inmate who was mistakenly released from a New Mexico prison, after he allegedly switche… https://t.co/k67spo76iP",Tue Jun 12 13:30:12 +0000 2018,-0.6705,0.0,0.756,0.244
+339,CNN,"After his expletive-laden rant about President Trump, Robert De Niro apologizes - to Canadians… https://t.co/U0bGCOExoG",Tue Jun 12 13:21:29 +0000 2018,0.0258,0.148,0.71,0.142
+340,BBC News (World),Ariana Grande appears to confirm engagement reports https://t.co/3V78ry0p6z,Tue Jun 12 08:46:29 +0000 2018,0.4588,0.3,0.7,0.0
+341,BBC News (World),Rush to save India bird with beak shut by plastic ring https://t.co/sdzEXbRGmL,Tue Jun 12 08:43:56 +0000 2018,0.4939,0.225,0.775,0.0
+342,BBC News (World),"RT @BBCBreaking: ""Anyone can make war, but only the most courageous can make peace"" - US President Donald Trump on ""honest, direct"" meeting…",Tue Jun 12 08:36:10 +0000 2018,0.8534,0.313,0.608,0.078
+343,BBC News (World),RT @BBCJonSopel: Tremendous three months says @realDonaldTrump at start of his news conference. Says he and #KimJongUn had spent an intense…,Tue Jun 12 08:17:52 +0000 2018,0.0,0.0,1.0,0.0
+344,BBC News (World),Kim: 'The world will see a major change' https://t.co/KqDvL7h74p,Tue Jun 12 08:08:49 +0000 2018,0.0,0.0,1.0,0.0
+345,BBC News (World),"Live #TrumpKimSummit updates
+
+https://t.co/Ce39CXWr6g https://t.co/rwzynRh6nj",Tue Jun 12 08:06:16 +0000 2018,0.0,0.0,1.0,0.0
+346,BBC News (World),"#TrumpKimSummit: Handshake moment explained in pictures, including Kim's first words to Trump… https://t.co/HRFyFAD6bD",Tue Jun 12 07:46:32 +0000 2018,0.0,0.0,1.0,0.0
+347,BBC News (World),Bode Miller: US Olympic skier's daughter drowns https://t.co/qEmmWu058o,Tue Jun 12 07:19:30 +0000 2018,-0.4939,0.0,0.686,0.314
+348,BBC News (World),Ivanka Trump and Jared Kushner commercial income revealed https://t.co/uZnGzKQZSq,Tue Jun 12 07:10:14 +0000 2018,0.0,0.0,1.0,0.0
+349,BBC News (World),"RT @BBCBarbaraPlett: As reported, #trumpkimsummit doc is very general declaration, no concrete steps towards denuclearization or details ab…",Tue Jun 12 06:55:21 +0000 2018,-0.3535,0.0,0.873,0.127
+350,BBC News (World),"The key points from the Trump-Kim Declaration: https://t.co/1dToUha250
+
+#TrumpKimSummit https://t.co/z2qBX7qymD",Tue Jun 12 06:41:14 +0000 2018,0.0,0.0,1.0,0.0
+351,BBC News (World),Kim and Trump sign joint statement https://t.co/pg0kh7UnHU,Tue Jun 12 06:32:49 +0000 2018,0.0,0.0,1.0,0.0
+352,BBC News (World),Russia 2018: Chinese firms fill World Cup sponsorship gap https://t.co/njzET1tDQl,Tue Jun 12 06:30:25 +0000 2018,0.0,0.0,1.0,0.0
+353,BBC News (World),"Trump Kim summit: Missed chance to discuss human rights, says defector https://t.co/INI61COz76",Tue Jun 12 06:30:25 +0000 2018,-0.4767,0.124,0.559,0.317
+354,BBC News (World),"RT @BBCMonitoring: Screenshots taken at the same moment on TV in South Korea, China, Japan and North Korea. #TrumpKimSummit https://t.co/AZ…",Tue Jun 12 05:53:20 +0000 2018,0.0,0.0,1.0,0.0
+355,BBC News (World),"RT @BBCBreaking: ""The world will see a major change"" - Kim Jong-un's words as he and Donald Trump sign a ""historic"" document after #TrumpKi…",Tue Jun 12 05:52:02 +0000 2018,0.0,0.0,1.0,0.0
+356,BBC News (World),How a stick protects Oromo women in Ethiopia https://t.co/7KL9cg9nXI,Tue Jun 12 05:41:26 +0000 2018,0.3182,0.247,0.753,0.0
+357,BBC News (World),"Live updates from #TrumpKimSummit 
+
+https://t.co/Ce39CXEPHG https://t.co/vcDN3D8NPF",Tue Jun 12 04:52:13 +0000 2018,0.0,0.0,1.0,0.0
+358,BBC News (World),Trump-Kim: Historic one-on-one at Singapore summit https://t.co/SAS57KNDOv,Tue Jun 12 04:50:56 +0000 2018,0.0,0.0,1.0,0.0
+359,BBC News (World),"Donald Trump tells reporters that he and Kim Jong-un will shortly be ""signing"" something together, as they take a s… https://t.co/RIF6i6WpFS",Tue Jun 12 04:44:52 +0000 2018,0.0,0.0,1.0,0.0
+360,CBS News,We're hearing from world leaders this morning following this historic summit. South Korea's president said the talk… https://t.co/rp6FELxSGv,Tue Jun 12 12:14:03 +0000 2018,0.0,0.0,1.0,0.0
+361,CBS News,High school baseball pitcher hugs childhood friend on the field after striking him out and sending his team to the… https://t.co/rwt7fJLAi0,Tue Jun 12 12:00:28 +0000 2018,0.7506,0.252,0.748,0.0
+362,CBS News,Here’s a look at some of this morning’s headlines on @CBSThisMorning https://t.co/K3Jvppai2u,Tue Jun 12 11:53:12 +0000 2018,0.0,0.0,1.0,0.0
+363,CBS News,Baylor St. Luke's Medical Center in Houston has temporarily closed its world-renowned heart transplant program foll… https://t.co/UwUbyCTH5E,Tue Jun 12 11:43:39 +0000 2018,0.0,0.0,1.0,0.0
+364,CBS News,"President Trump says he ""trusts"" Kim Jong Un to denuclearize after summit https://t.co/7x0n4pm4nO https://t.co/Kd6V5S8T7J",Tue Jun 12 11:40:47 +0000 2018,0.0,0.0,1.0,0.0
+365,CBS News,Crash tests of two popular SUVs reveal serious safety concerns. The Insurance Institute for Highway Safety gave the… https://t.co/KYburUOInq,Tue Jun 12 11:37:06 +0000 2018,0.6597,0.318,0.53,0.152
+366,CBS News,"Here are three things you should know this morning
+1️⃣N. Korea to return U.S. remains
+2️⃣Media merger decision day… https://t.co/mNBh2RqPuH",Tue Jun 12 11:36:22 +0000 2018,0.0,0.0,1.0,0.0
+367,CBS News,Last night was first time a U.S. president has ever met in person with a North Korean dictator. It was also the fir… https://t.co/QBVYoXH431,Tue Jun 12 11:35:27 +0000 2018,0.0,0.0,1.0,0.0
+368,CBS News,“Mike Pompeo is flying to these asian capitals to explain what happened in the room [where Trump and Kim met]. He’s… https://t.co/T8PEoFmGaa,Tue Jun 12 11:23:51 +0000 2018,0.0,0.0,1.0,0.0
+369,CBS News,"After his historic meeting with Kim Jong Un, President Trump gave Kim a peak inside ""the Beast"" -- his limousine. https://t.co/bo4LotxpLM",Tue Jun 12 11:21:15 +0000 2018,0.0,0.0,1.0,0.0
+370,CBS News,“What we have now is a ‘freeze for freeze.’ The North Koreans are freezing their ICBM and nuclear tests and the Ame… https://t.co/4lYbzLUWfm,Tue Jun 12 11:20:15 +0000 2018,-0.1027,0.0,0.938,0.062
+371,CBS News,"“The president has, at least three times, been asked by reporters during that press conference, ‘what else did you… https://t.co/DpS0wuCovE",Tue Jun 12 11:17:50 +0000 2018,0.0,0.0,1.0,0.0
+372,CBS News,".@FacetheNation moderator @MargBrennan and CBS News senior global affairs contributor Ian Bremmer, president of Eur… https://t.co/NGbuLuAwu7",Tue Jun 12 11:15:44 +0000 2018,0.0,0.0,1.0,0.0
+373,CBS News,"The first global reaction came from South Korean President Moon Jae In, who offered sincere congratulations and sai… https://t.co/IdhaGCrEbN",Tue Jun 12 11:15:02 +0000 2018,0.765,0.28,0.72,0.0
+374,CBS News,Pres. Trump says his meeting with Kim Jong Un would not have happened if not for the death of Otto Warmbier… https://t.co/fzs4YHLQBa,Tue Jun 12 11:13:40 +0000 2018,0.4847,0.13,0.87,0.0
+375,CBS News,President Trump has said in the past that taking nuclear weapons out of North Korea could happen very quickly. But… https://t.co/gwxB24supG,Tue Jun 12 11:10:55 +0000 2018,-0.4404,0.0,0.873,0.127
+376,CBS News,"President Trump said it would be ""inappropriate"" for the U.S. to perform joint military exercises with South Korea… https://t.co/Oi5YqyjJGx",Tue Jun 12 11:10:25 +0000 2018,0.0,0.0,1.0,0.0
+377,CBS News,President Trump says he now trusts Kim Jong Un and knows he wants to make a deal. Trump also said he is open to tra… https://t.co/Qi6k7zzOuJ,Tue Jun 12 11:08:29 +0000 2018,0.4767,0.114,0.886,0.0
+378,CBS News,President Trump and North Korean dictator Kim Jong Un finished their unprecedented meeting by signing an agreement… https://t.co/LNaV8fzlrS,Tue Jun 12 11:06:19 +0000 2018,0.0,0.0,1.0,0.0
+379,CBS News,"President addressed media after historic summit with North Korean leader Kim Jong Un, where they signed a ""pretty c… https://t.co/cAqhNQPnIe",Tue Jun 12 11:00:47 +0000 2018,0.4939,0.151,0.849,0.0
+380,The New York Times,"Your daily @DealBook Briefing:
+
+• Trump and Kim shook hands. What now?
+
+• A root of rising home prices: Trump's lum… https://t.co/BwXaiWJvhv",Tue Jun 12 12:00:21 +0000 2018,-0.1027,0.0,0.928,0.072
+381,The New York Times,"Peter Navarro, one of President Trump's top trade advisers, said that there was a ""special place in hell"" for Justi… https://t.co/XVnoTcLTra",Tue Jun 12 11:44:05 +0000 2018,-0.2732,0.172,0.651,0.176
+382,The New York Times,"""They have great beaches,"" President Trump said during a news conference after his meeting with Kim Jong-un. ""You s… https://t.co/MUvAbINX5C",Tue Jun 12 11:30:11 +0000 2018,0.6249,0.186,0.814,0.0
+383,The New York Times,"Was the handshake between President Trump and Kim Jong-un a beginning or an end?
+https://t.co/TScDIEu6xC",Tue Jun 12 11:15:04 +0000 2018,0.0,0.0,1.0,0.0
+384,The New York Times,"Prosecutors said a top Volkswagen manager was a suspect in a criminal inquiry, and authorities in Berlin ordered Da… https://t.co/5bpQ1taQgx",Tue Jun 12 11:00:11 +0000 2018,-0.5859,0.084,0.654,0.262
+385,The New York Times,"""Safe sex is basically transformed by PrEP."" The rollout of a drug that prevents HIV infection was followed by a re… https://t.co/gpAr4vx1YA",Tue Jun 12 10:45:07 +0000 2018,0.4939,0.189,0.811,0.0
+386,The New York Times,"By showing Kim Jong-un inspecting landmarks in Singapore, North Korean media tried to promote his image as a leader… https://t.co/sLD0aBS2MR",Tue Jun 12 10:30:13 +0000 2018,0.3818,0.126,0.874,0.0
+387,The New York Times,"Edgar Valdez Villarreal, a Texas-born cartel leader accused of being one of Mexico's most influential and violent d… https://t.co/JFQE8BnOBK",Tue Jun 12 10:20:08 +0000 2018,-0.4889,0.13,0.611,0.259
+388,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/1rw5fG4Cu3 https://t.co/7SaThJpzCj,Tue Jun 12 10:11:04 +0000 2018,0.0,0.0,1.0,0.0
+389,The New York Times,The full text of the document signed by President Trump and Kim Jong-un https://t.co/fVdvXsVEBm,Tue Jun 12 10:00:17 +0000 2018,0.0,0.0,1.0,0.0
+390,The New York Times,"Breaking News: President Trump said the U.S. would suspend military exercises on the Korean Peninsula, an apparent… https://t.co/l96ALm72u9",Tue Jun 12 09:46:42 +0000 2018,-0.3182,0.0,0.881,0.119
+391,The New York Times,RT @petersgoodman: “Who is financing these transactions? How do we know it isn’t a sovereign wealth fund from Saudi Arabia or some other pl…,Tue Jun 12 09:45:02 +0000 2018,0.4939,0.127,0.873,0.0
+392,The New York Times,"A man fatally shot four children and then himself late Monday in Orlando, capping a 21-hour standoff that began aft… https://t.co/TQvNRw9afk",Tue Jun 12 09:30:03 +0000 2018,-0.6369,0.0,0.811,0.189
+393,The New York Times,"RT @nytimesworld: Living alone and working a dead-end job, Keiko, the narrator of ""Convenience Store Woman,"" couldn't be happier. To her cr…",Tue Jun 12 09:14:02 +0000 2018,-0.5826,0.0,0.799,0.201
+394,The New York Times,Photos from the Trump-Kim meeting https://t.co/byZxku43F2,Tue Jun 12 09:00:06 +0000 2018,0.0,0.0,1.0,0.0
+395,The New York Times,"President Trump and Kim Jong-un signed a joint statement that promises bold change, but lacks details https://t.co/Fi2h2C10X5",Tue Jun 12 08:45:05 +0000 2018,0.3818,0.205,0.795,0.0
+396,The New York Times,"Dennis Rodman ""is our best resource at this point right now for understanding the minds of the two men, especially… https://t.co/FvH4DyAFdh",Tue Jun 12 08:30:09 +0000 2018,0.6369,0.174,0.826,0.0
+397,The New York Times,"RT @nytimesworld: In the first six years as leader, Kim Jong-un has ordered the executions of at least 340 people, including a general who…",Tue Jun 12 08:15:07 +0000 2018,0.0,0.0,1.0,0.0
+398,The New York Times,You've probably seen this G-7 summit photo that was distributed by the German government. But did you see the diffe… https://t.co/4j5rqA72rx,Tue Jun 12 08:02:03 +0000 2018,0.0,0.0,1.0,0.0
+399,The New York Times,An in-depth look at all 32 World Cup teams https://t.co/jSkoTl7pvH,Tue Jun 12 07:47:04 +0000 2018,0.0,0.0,1.0,0.0
+400,Fox News,Minnesota HS pitcher consoles friend after striking him out to reach state championship https://t.co/UpmbRgYB9w https://t.co/pKhrSNoSiR,Tue Jun 12 14:42:00 +0000 2018,0.7351,0.375,0.625,0.0
+401,Fox News,.@GOPChairwoman on Trump-Kim meeting: “It shows that our president is a true leader.” @AmericaNewsroom… https://t.co/p0Eq7KrLnq,Tue Jun 12 14:38:17 +0000 2018,0.4215,0.177,0.823,0.0
+402,Fox News,.@WhiteHouse: Kudlow in good condition after suffering mild heart attack https://t.co/fCe16nSMgd @AmericaNewsroom https://t.co/JGPuPtam3H,Tue Jun 12 14:33:09 +0000 2018,-0.5106,0.152,0.524,0.325
+403,Fox News,U.S. Forces Korea: No orders received to stop joint training exercises on Korean Peninsula https://t.co/DcyiETW4s3… https://t.co/5CVWY17p81,Tue Jun 12 14:28:57 +0000 2018,-0.5267,0.0,0.761,0.239
+404,Fox News,John Schneider speaks out before heading to jail: 'I'm disheartened with the system but my head's up' (via @Sashafb) https://t.co/xWVTilgyrw,Tue Jun 12 14:20:20 +0000 2018,-0.2732,0.0,0.9,0.1
+405,Fox News,"Happy Birthday, former President George H.W. Bush! https://t.co/9bDFEZGQGH",Tue Jun 12 14:15:00 +0000 2018,0.6114,0.363,0.637,0.0
+406,Fox News,.@DavieFireRescue welcomes 9 babies in 10 months https://t.co/aVdCaxYL0r https://t.co/53ctXoyp53,Tue Jun 12 14:09:03 +0000 2018,0.4019,0.278,0.722,0.0
+407,Fox News,"Tuesday primaries showcase bruising races for governor - via @K_Schallhorn 
+https://t.co/OhWchVh4yU",Tue Jun 12 13:52:44 +0000 2018,0.0,0.0,1.0,0.0
+408,Fox News,"Trump-bashing South Carolina Rep. Sanford in tough primary fight against GOP newcomer - via @brookefoxnews 
+https://t.co/GX7j3dqTeU",Tue Jun 12 13:50:56 +0000 2018,-0.4767,0.0,0.76,0.24
+409,Fox News,Minnesota HS pitcher consoles friend after striking him out to reach state championship https://t.co/UpmbRgYB9w,Tue Jun 12 13:07:33 +0000 2018,0.7351,0.396,0.604,0.0
+410,Fox News,"MS-13 gang members among 91 arrests during 5-day sweep in New Jersey, ICE says https://t.co/vzmIjgpS2J",Tue Jun 12 12:51:45 +0000 2018,-0.4404,0.0,0.828,0.172
+411,Fox News,.@benshapiro: “If the president really wants to make sure that Otto Warmbier didn’t die in vain then I think that i… https://t.co/mKH4MZHPKG,Tue Jun 12 12:50:55 +0000 2018,-0.6597,0.085,0.667,0.248
+412,Fox News,.@benshapiro: “This is a slave state with 25 million prisoners… The president’s praise for the dictator was disquie… https://t.co/pCe0gYTIZa,Tue Jun 12 12:37:08 +0000 2018,0.5574,0.175,0.825,0.0
+413,Fox News,.@David_Bossie: “Barack Obama was handed the Nobel Peace Prize for having done exactly nothing… This president does… https://t.co/dBVd2Q2I0S,Tue Jun 12 12:31:03 +0000 2018,0.7783,0.298,0.702,0.0
+414,Fox News,.@David_Bossie: “Nikki Haley and Secretary Pompeo clearly did an amazing job.” https://t.co/aVbiUPbubu,Tue Jun 12 12:27:19 +0000 2018,0.7579,0.394,0.606,0.0
+415,Fox News,.@David_Bossie: “This president is the biggest game-time player I have ever been around and ever seen in my politic… https://t.co/CC5euakAwJ,Tue Jun 12 12:22:23 +0000 2018,0.0,0.0,1.0,0.0
+416,Fox News,"Statement from Trump, Kim Jong Un: Read the text
+https://t.co/vxTG22N0gH",Tue Jun 12 12:16:48 +0000 2018,0.0,0.0,1.0,0.0
+417,Fox News,"Trump to 'Hannity': Kim Jong Un to start denuclearization 'virtually immediately' - via @JuddBerger 
+https://t.co/MWp2DtXH5A",Tue Jun 12 12:16:24 +0000 2018,0.0,0.0,1.0,0.0
+418,Fox News,"Trump, Kim Sign Historic Agreement; @RichEdsonDC reports https://t.co/0Zfirk736G",Tue Jun 12 12:04:21 +0000 2018,0.4939,0.314,0.686,0.0
+419,Fox News,Former CIA Officer Urges Caution After Summit: North Korea Has 'Long History of Double Dealing' https://t.co/Sfd8jZMnyB,Tue Jun 12 11:57:43 +0000 2018,0.0,0.0,1.0,0.0
+420,CNN,"""I do trust him"": President Trump says he trusts Kim Jong Un and that he has received the same trust in return foll… https://t.co/PSb2T6JCLu",Tue Jun 12 13:07:03 +0000 2018,0.8658,0.316,0.684,0.0
+421,CNN,"Before celebrating a game-winning strikeout that led his team to the state tournament, this high school baseball pi… https://t.co/7xsS1d0TIr",Tue Jun 12 12:56:45 +0000 2018,0.5719,0.179,0.821,0.0
+422,CNN,"""Tiny pieces, medium size... We literally had to spend hours per day piecing together the puzzle prior to taping"" p… https://t.co/m6DW9bCimf",Tue Jun 12 12:40:00 +0000 2018,0.0,0.0,1.0,0.0
+423,CNN,Craigslist founder Craig Newmark is giving $20 million to train future journalists at the City University of New Yo… https://t.co/IwM4mWKhSJ,Tue Jun 12 12:29:38 +0000 2018,0.34,0.112,0.888,0.0
+424,CNN,"The new documents reveal that in 2017, Ivanka Trump earned $3.9 million from her stake in the Trump International H… https://t.co/qRZT5kis3E",Tue Jun 12 12:16:15 +0000 2018,0.0,0.0,1.0,0.0
+425,CNN,Ivanka Trump and Jared Kushner reveal new details of enormous wealth https://t.co/LgV2qoaR01 https://t.co/GZs62Mbs9g,Tue Jun 12 12:15:26 +0000 2018,0.4939,0.211,0.789,0.0
+426,CNN,Country Time Lemonade is creating a team to help pay fines and permits for kids who want to run their own lemonade… https://t.co/2004tLtbAK,Tue Jun 12 11:59:43 +0000 2018,0.5859,0.242,0.703,0.055
+427,CNN,"RT @NewDay: ""It's interesting for the President of the United States to refer to US/South Korean joint military exercises as 'provocative,'…",Tue Jun 12 11:45:24 +0000 2018,0.6705,0.224,0.776,0.0
+428,CNN,"CNN's @jaketapper on the Trump-Kim summit: ""It's not as if other presidents couldn't have done this, it's that they… https://t.co/pMJqluwb5M",Tue Jun 12 11:44:07 +0000 2018,0.0,0.0,1.0,0.0
+429,CNN,"The handshake, the menu, the positioning of flags -- every aspect of the meeting between President Trump and Kim Jo… https://t.co/D1j3EgqFgz",Tue Jun 12 11:30:15 +0000 2018,0.0,0.0,1.0,0.0
+430,CNN,Here's the moment President Trump and North Korean leader Kim Jong Un shook hands before their historic summit in S… https://t.co/j67Niw9AFz,Tue Jun 12 11:24:29 +0000 2018,-0.1027,0.0,0.935,0.065
+431,CNN,Read the full text of the Trump-Kim signed statement https://t.co/y8zrcMEueZ https://t.co/Oqq4w6Cxu1,Tue Jun 12 11:10:03 +0000 2018,0.0,0.0,1.0,0.0
+432,CNN,"742 kids have died of heatstroke in vehicles in the United States between 1998 and 2017, according to a report. Jus… https://t.co/sfilPkir02",Tue Jun 12 11:00:15 +0000 2018,-0.2023,0.11,0.748,0.142
+433,CNN,"RT @NewDay: ""The North Koreans did not come with anything new,"" says Fmr. CIA Dir. Michael Hayden on the Trump-Kim summit: ""The new element…",Tue Jun 12 11:00:13 +0000 2018,0.0,0.0,1.0,0.0
+434,CNN,"5 things for Tuesday:
+
+- US-North Korea summit
+- Russia sanctions
+- Supreme Court &amp; voting
+- Florida standoff
+- Pri… https://t.co/A2Aeqqb411",Tue Jun 12 10:50:03 +0000 2018,0.5574,0.194,0.806,0.0
+435,CNN,Here's everything you need to know about the historic summit between President Trump and North Korea's Kim Jong Un… https://t.co/TOJKzYDx0o,Tue Jun 12 10:40:07 +0000 2018,0.0,0.0,1.0,0.0
+436,CNN,"President Trump says the roughly 100,000 political prisoners in North Korea are going to be ""the great winners"" of… https://t.co/CJuBeUk8eT",Tue Jun 12 10:30:08 +0000 2018,0.5994,0.262,0.618,0.12
+437,CNN,"President Donald Trump said the roughly 100,000 political prisoners in North Korea are going to be ""the great winne… https://t.co/ks0MEmdt4O",Tue Jun 12 10:20:34 +0000 2018,0.2023,0.161,0.709,0.13
+438,CNN,"The US military will stop ""war games"" on the Korean Peninsula, President Trump said, as he announced details of his… https://t.co/TnPog3UKz5",Tue Jun 12 10:20:06 +0000 2018,-0.7269,0.0,0.757,0.243
+439,CNN,Nearly five hours of unprecedented and surreal talks between President Trump and North Korea's Kim Jong Un culminat… https://t.co/9ESY5cnM8a,Tue Jun 12 10:10:22 +0000 2018,0.0,0.0,1.0,0.0
+440,BBC News (World),From 'fire and fury' to this. The moment Donald Trump met Kim Jong-un https://t.co/kQeQIixs89 https://t.co/oVkCQA7wTU,Tue Jun 12 04:33:51 +0000 2018,-0.7269,0.0,0.681,0.319
+441,BBC News (World),"Where is @realDonaldTrump
+now?
+
+How long did his meeting with Kim Jong-un last? 
+
+What was discussed?
+
+Questions ab… https://t.co/2pffHUgklF",Tue Jun 12 04:18:35 +0000 2018,0.0,0.0,1.0,0.0
+442,BBC News (World),RT @BBCMarikoOi: 【🚨Facebook Live alert🚨】@heatherchen_ &amp; I will be broadcasting from @BBCNews Facebook page at 7am🇬🇧/2pm🇸🇬 so send us your Q…,Tue Jun 12 04:17:21 +0000 2018,0.0,0.0,1.0,0.0
+443,BBC News (World),"""We will have a terrific relationship, I have no doubt"" - this is what Donald Trump and Kim Jong-un had to say befo… https://t.co/A3oGYRvMCP",Tue Jun 12 04:14:15 +0000 2018,-0.1531,0.12,0.698,0.182
+444,BBC News (World),In pictures: Kim makes surprise Singapore tour https://t.co/3TsUH4hGLL,Tue Jun 12 04:12:36 +0000 2018,0.2732,0.231,0.769,0.0
+445,BBC News (World),One-handed cookbook for stroke patients https://t.co/8aQforTIFB,Tue Jun 12 02:47:12 +0000 2018,0.0,0.0,1.0,0.0
+446,BBC News (World),"Remember when Kim Jong-un used to be a recluse? 
+
+https://t.co/zLa9K0qWGC
+
+Live #TrumpKimSummit updates https://t.co/0lycZ550bf",Tue Jun 12 02:46:57 +0000 2018,0.0,0.0,1.0,0.0
+447,BBC News (World),"#TrumpKim summary:
+
+- @realDonaldTrump meets Kim Jong-un in Singapore
+- Denuclearisation is on the table
+- And so i… https://t.co/yelR1J7S8b",Tue Jun 12 02:30:37 +0000 2018,0.0,0.0,1.0,0.0
+448,BBC News (World),"RT @BBCNewsAsia: Over in South Korea... 
+
+#TrumpKimSummit
+#TrumpKim 
+
+Live https://t.co/sCYS3RbMYA
+
+How Koreans view the summits https://t.…",Tue Jun 12 02:07:07 +0000 2018,0.0,0.0,1.0,0.0
+449,BBC News (World),"RT @hugobachega: Joining us tonight for the #TrumpKim summit is Grace Jo, who managed to escape North Korea not just once but three times h…",Tue Jun 12 01:54:22 +0000 2018,0.3071,0.124,0.876,0.0
+450,BBC News (World),"Guess who else is in Singapore for the #TrumpKimsummit 
+
+Dennis Rodman just got emotional on CNN while sharing his… https://t.co/TXJpYipvFI",Tue Jun 12 01:54:09 +0000 2018,0.5267,0.196,0.804,0.0
+451,BBC News (World),The moment when Donald Trump and Kim Jong-un shook hands https://t.co/DXFUCFLJfy,Tue Jun 12 01:50:55 +0000 2018,-0.1027,0.0,0.877,0.123
+452,BBC News (World),"Trump's economic adviser suffers heart attack, tweets president https://t.co/tPSFdSoaGX",Tue Jun 12 01:43:42 +0000 2018,-0.7351,0.0,0.53,0.47
+453,BBC News (World),"Whatever you make of this day, history really has been made.
+
+#TrumpKim
+#TrumpKimsummit 
+
+More:… https://t.co/4KmeeXwAEr",Tue Jun 12 01:38:56 +0000 2018,0.0,0.0,1.0,0.0
+454,BBC News (World),"Watch history unfold: https://t.co/J45v7h9kFk
+
+#TrumpKim 
+#TrumpKimSummit https://t.co/ak3PtukdbL",Tue Jun 12 01:27:52 +0000 2018,0.0,0.0,1.0,0.0
+455,BBC News (World),"RT @BBCBreaking: The moment the world's been waiting for. 
+
+US President @realDonaldTrump has met North Korea's Kim Jong-un https://t.co/DN…",Tue Jun 12 01:09:03 +0000 2018,0.0,0.0,1.0,0.0
+456,BBC News (World),"RT @BBCBreaking: Donald Trump has *just* met Kim Jong-un https://t.co/DNFStoMXjW
+
+#TrumpKimSummit
+#TrumpKim",Tue Jun 12 01:05:37 +0000 2018,0.0,0.0,1.0,0.0
+457,BBC News (World),"#TrumpKimsummit: Both leaders are in place at the five star Capella hotel.
+
+They will meet for a very short time, j… https://t.co/plDCWNJevD",Tue Jun 12 01:02:35 +0000 2018,0.0,0.0,1.0,0.0
+458,BBC News (World),"History is about to be made as the meeting of the year takes place on Sentosa island. #trumpkimsummit
+
+But human ri… https://t.co/b7X84XP9sc",Tue Jun 12 00:33:30 +0000 2018,0.0,0.0,1.0,0.0
+459,BBC News (World),RT @BBCBreaking: @realDonaldTrump North Korean leader Kim Jong-un has just left his Singapore hotel and joins @realDonaldTrump on his way t…,Tue Jun 12 00:18:16 +0000 2018,0.0,0.0,1.0,0.0
+460,CBS News,"""[Pres. Trump said] that the war games... will be discontinued, will be canceled, and that concerns me. Did he mean… https://t.co/Is0lPpPURg",Tue Jun 12 10:59:10 +0000 2018,-0.5994,0.0,0.837,0.163
+461,CBS News,"""The joint statement and the answers to the questions during the press conference, they leave a lot more questions… https://t.co/hx0JfFulbW",Tue Jun 12 10:55:46 +0000 2018,-0.0516,0.0,0.938,0.062
+462,CBS News,"While waiting at a resort in Singapore for his historic meeting with North Korean leader Kim Jong Un, President Tru… https://t.co/HUNVQJmq59",Tue Jun 12 10:40:31 +0000 2018,0.0,0.0,1.0,0.0
+463,CBS News,AHEAD: @CBSThisMorning is in Singapore with the latest on the historic meeting and agreement between President Trum… https://t.co/eyMgsmZepF,Tue Jun 12 10:30:29 +0000 2018,0.4939,0.158,0.842,0.0
+464,CBS News,"Reuniting North and South Korea could cost trillions of dollars, analysts say  https://t.co/5UXPhgh9Mq https://t.co/6oW8TviRNR",Tue Jun 12 10:20:55 +0000 2018,0.0,0.0,1.0,0.0
+465,CBS News,"At his news conference following the summit, President Trump did not give much new detail on the agreement he had r… https://t.co/htWKSYxK4A",Tue Jun 12 09:51:08 +0000 2018,0.4939,0.132,0.868,0.0
+466,CBS News,"""I think bottom line at this point right now there is this framework which has been signed, these four main points,… https://t.co/o2I86QkROM",Tue Jun 12 09:37:56 +0000 2018,0.0,0.0,1.0,0.0
+467,CBS News,"""From his public demeanor here in this press conference, it seemed to be one of the best days, if not the best day,… https://t.co/6zVAJfylGV",Tue Jun 12 09:32:30 +0000 2018,0.8555,0.276,0.724,0.0
+468,CBS News,"""I cannot recall since he became president, Mr. Trump taking questions from every news outlet that sits in the fron… https://t.co/pAEOxV1icf",Tue Jun 12 09:31:34 +0000 2018,0.0,0.0,1.0,0.0
+469,CBS News,"President Trump says meeting with North Korean leader Kim Jong Un wasn't recorded: ""We probably have some notes or… https://t.co/MNJZ18JE5Y",Tue Jun 12 09:23:06 +0000 2018,0.0,0.0,1.0,0.0
+470,CBS News,"Reporter: Do you now see Kim Jong Un as an equal?
+
+President Trump:  “No. I don't think that -- I don't view it tha… https://t.co/svyv2CgDkp",Tue Jun 12 09:15:59 +0000 2018,0.0,0.0,1.0,0.0
+471,CBS News,"""They may not want that. I can understand that, too. But that was a version of what could happen, what could take p… https://t.co/nlgfNjSyWl",Tue Jun 12 09:13:38 +0000 2018,-0.0286,0.0,0.95,0.05
+472,CBS News,"President Trump on North Korea dismantling its nuclear arsenal: ""As far as what he has, it's substantial, very subs… https://t.co/l5875tfGOl",Tue Jun 12 09:10:18 +0000 2018,0.2023,0.087,0.913,0.0
+473,CBS News,"""I have a good relationship with [Canadian Prime Minister] Justin Trudeau, I really did, other than he had a news c… https://t.co/pOP8h13Luk",Tue Jun 12 09:01:50 +0000 2018,0.4404,0.139,0.861,0.0
+474,CBS News,"President Trump on viral G7 photo: ""We were just talking, the whole group about something unrelated to everything,… https://t.co/MdJOaoUuDu",Tue Jun 12 08:59:47 +0000 2018,0.0,0.0,1.0,0.0
+475,CBS News,"“I showed it to you because that's the future. I mean, that very well could be the future. And the other alternativ… https://t.co/I5TtpZNBkP",Tue Jun 12 08:56:37 +0000 2018,0.3384,0.102,0.898,0.0
+476,CBS News,"""I gave up nothing. I'm here. I haven't slept in 25 hours, but I thought it was appropriate to do because we've bee… https://t.co/tu1gFynyAd",Tue Jun 12 08:51:35 +0000 2018,0.0,0.0,1.0,0.0
+477,CBS News,"President Trump on ending U.S. ""war games"" with South Korea: ""Under the circumstances that we're negotiating a very… https://t.co/WSwOgHntrE",Tue Jun 12 08:48:41 +0000 2018,-0.5994,0.0,0.813,0.187
+478,CBS News,"""The sanctions will come off when we are sure that the nukes are no longer a factor. Sanctions played a big role, b… https://t.co/NVR89btLIu",Tue Jun 12 08:44:14 +0000 2018,0.3612,0.181,0.734,0.085
+479,CBS News,"""I believe it's a rough situation over there, there's no question about it, and we did discuss it today pretty stro… https://t.co/H22BlMO5OJ",Tue Jun 12 08:43:00 +0000 2018,0.25,0.131,0.779,0.09
+480,The New York Times,"This buttery loaf is made with a bit of orange zest, which perfectly compliments rhubarb’s pleasant tang https://t.co/139XvgdOkO",Tue Jun 12 07:32:05 +0000 2018,0.8807,0.421,0.579,0.0
+481,The New York Times,RT @nytimestravel: 36 Hours in the Cotswolds: Its lost-in-time country hamlets make this slice of south central England one of Europe’s mos…,Tue Jun 12 07:17:06 +0000 2018,0.0,0.0,1.0,0.0
+482,The New York Times,"Some police officers in the UK took to social media to express dismay at a campaign by Lush, a cosmetics chain https://t.co/Ex9G9IHHOn",Tue Jun 12 07:02:02 +0000 2018,-0.4215,0.0,0.872,0.128
+483,The New York Times,RT @nytimesarts: Rose McGowan called for a discussion about mental illness in a letter about Asia Argento and Anthony Bourdain after he kil…,Tue Jun 12 06:32:01 +0000 2018,-0.4019,0.0,0.881,0.119
+484,The New York Times,"Breaking News: President Trump ended a meeting with Kim Jong-un, saying denuclearization would start “very quickly”
+https://t.co/44vqGIiWEn",Tue Jun 12 06:22:14 +0000 2018,0.0,0.0,1.0,0.0
+485,The New York Times,RT @nytimesbusiness: Vice Media is testing the limits of the “greater fool theory” — the idea among investors that they can invest in a com…,Tue Jun 12 06:16:15 +0000 2018,-0.4404,0.0,0.884,0.116
+486,The New York Times,"Florida Man Kills 4 Children and Himself, Ending 21-Hour Hostage Standoff https://t.co/UqGC9ZyItS",Tue Jun 12 06:00:02 +0000 2018,-0.5423,0.0,0.741,0.259
+487,The New York Times,“I’m quite certain that the loss of the Y chromosome with age explains a very large proportion of the increased mor… https://t.co/cRZr5QVLlW,Tue Jun 12 05:48:26 +0000 2018,0.2944,0.189,0.714,0.097
+488,The New York Times,"RT @MichaelPaulson: How did a musical few people have ever heard of sweep the Tony Awards? A look at the journey of ""The Band's Visit"" to B…",Tue Jun 12 05:32:05 +0000 2018,0.4588,0.111,0.889,0.0
+489,The New York Times,The net neutrality repeal is official. Here’s how that could affect you. https://t.co/9gFhoBCI6q,Tue Jun 12 05:11:00 +0000 2018,0.0,0.0,1.0,0.0
+490,The New York Times,The escalating suicide rate is a profound indictment of the United States’ mental health system https://t.co/XAZM6TLKD8,Tue Jun 12 04:55:00 +0000 2018,-0.4019,0.138,0.64,0.222
+491,The New York Times,"RT @nytimestravel: ""For many of us, he was not just another writer or personality to admire. He was literally who we wanted to be."" Our @Fr…",Tue Jun 12 04:38:28 +0000 2018,0.4767,0.11,0.89,0.0
+492,The New York Times,RT @NYTNational: A Memphis woman drove over 20 miles with 2 children in pet kennels in the trunk of her car https://t.co/nn49D5yqE9,Tue Jun 12 04:22:03 +0000 2018,0.0,0.0,1.0,0.0
+493,The New York Times,The U.S. has talked about building solar panel highways for years. China has now done it. https://t.co/qpE2iQmcv7,Tue Jun 12 04:02:03 +0000 2018,0.0,0.0,1.0,0.0
+494,The New York Times,"RT @nytopinion: There has never been a disaster like the G7 meeting that just took place. It could herald the beginning of a trade war, may…",Tue Jun 12 03:47:03 +0000 2018,-0.4051,0.109,0.693,0.198
+495,The New York Times,Photos of the Trump-Kim summit meeting from Singapore https://t.co/f5O02F5nVD https://t.co/UHYY6iWWxh,Tue Jun 12 03:32:08 +0000 2018,0.0,0.0,1.0,0.0
+496,The New York Times,"“I go to sleep at night beating myself up about it, thinking, ‘Why did I not at least Google the possible side effe… https://t.co/8lr367GWNo",Tue Jun 12 03:17:04 +0000 2018,-0.4588,0.0,0.88,0.12
+497,The New York Times,RT @dougmillsnyt: .@realDonaldTrump and North Korean leader Kim Jong-un during their first meeting on Sentosa Island in Singapore. #Singapo…,Tue Jun 12 03:11:05 +0000 2018,0.0,0.0,1.0,0.0
+498,The New York Times,A federal judge sharply criticized the Justice Department’s argument that President Trump’s financial interest in h… https://t.co/o2E925YEhy,Tue Jun 12 03:02:04 +0000 2018,0.34,0.274,0.513,0.214
+499,The New York Times,RT @austinramzy: My meager contribution to this historic moment https://t.co/qv0bTV4G2j,Tue Jun 12 02:53:41 +0000 2018,0.0,0.0,1.0,0.0
